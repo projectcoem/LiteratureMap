@@ -286,11 +286,11 @@
       </div>
       <div>
         <button
-          onclick="window.location.href='/authorToAuthor3DSmall'"
+          onclick="window.location.href='/authorToAuthor3D'"
           id="Stories-Authors-btn"
           title="Go to embeddings"
         >
-        Ver Autores de cuentos
+        Ver todos los Autores 
       </button>
         <button
           onclick="window.location.href='/'"
@@ -467,7 +467,7 @@
 
       async function fetchJSON() {
         try {
-          const response = await fetch("static/authorLinksSmaller.json");
+          const response = await fetch("static/authorLinksSmallerShortCleaned.json");
           const gData = await response.json();
           return gData;
         } catch (error) {
