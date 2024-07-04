@@ -267,6 +267,10 @@
         padding: 8px;
         border-bottom: 1px solid #ccc;
       }
+      .drawing {
+            justify-content: right;
+            align-items: right;
+        }
     </style>
   </head>
 
@@ -329,6 +333,11 @@
         <h3>Top 5 Autores relacionados</h3>
         <ul id="top-authors-list"></ul>
       </div>
+      <form id="donate" action="https://www.paypal.com/donate" method="post" target="_top">
+        <input type="hidden" name="hosted_button_id" value="F43U7EFMW5N2A" />
+        <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" border="0" name="submit" title="PayPal - The safer, easier way to pay online!" alt="Donate with PayPal button" />
+        <img alt="" border="0" src="https://www.paypal.com/en_CO/i/scr/pixel.gif" width="1" height="1" />
+      </form>
     </div>
     <iframe src="static/author_info_smaller.html" id="iframeA" style="display:none;"></iframe>
     <script src="static/particleDraw.js"></script>
@@ -360,6 +369,26 @@
           container.style.marginLeft = "0";
         }
       }
+      async function updateAudioSource(audio) {
+          let audioUrl = `/static/${audio}`;
+          try {
+              // Attempt to fetch the audio file
+              const response = await fetch(audioUrl, { method: 'HEAD' });
+              console.log(`Fetching ${audioUrl}: status ${response.status}`);
+              if (response.ok) {
+                  // If the response is ok, the file exists, so update the src attribute
+                  document.getElementById("popup-audio").src = audioUrl;
+              } else {
+                  // If the response is not ok, log a message or handle the error and default audio
+                  document.getElementById("popup-audio").src = `/static/tenquita.mp3`;
+                  console.error(`Audio file not found: ${audioUrl} (status: ${response.status})`);
+              }
+          } catch (error) {
+              // Catch any network errors and default audio
+              document.getElementById("popup-audio").src = `/static/tenquita.mp3`;
+              console.error(`Error fetching audio file: ${error}`);
+          }
+      }
       
       function setAuthor( node ) {
         if ( !node ) { return }
@@ -390,7 +419,7 @@
               );
             document.getElementById("author-info-container").innerHTML =
               rendered;
-            document.getElementById("popup-audio").src = `/static/${author.audio}`;
+            updateAudioSource(author.audio);
             resetAuthorImage(author.image); // Defined in particleDraw.js
             updateTopAuthors(author);
           })
