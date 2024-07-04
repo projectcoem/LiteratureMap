@@ -4,6 +4,7 @@
   <!-- Import Webcomponents polyfill for older browsers -->
   <link rel="icon" type="image/png" href="static/favicon.png" />
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.4.0/p5.js"></script>
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
@@ -329,6 +330,8 @@
         <ul id="top-authors-list"></ul>
       </div>
     </div>
+    <iframe src="static/author_info_smaller.html" id="iframeA" style="display:none;"></iframe>
+    <script src="static/particleDraw.js"></script>
 
     <script src="//unpkg.com/3d-force-graph"></script>
     <script>
@@ -387,9 +390,9 @@
               );
             document.getElementById("author-info-container").innerHTML =
               rendered;
-            document.getElementById("popup-image").src = `/static/${author.image}`;
             document.getElementById("popup-audio").src = `/static/${author.audio}`;
-            updateTopAuthors(author)
+            resetAuthorImage(author.image); // Defined in particleDraw.js
+            updateTopAuthors(author);
           })
           .catch((error) => console.error("Error loading the box:", error));
       }

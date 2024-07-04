@@ -12,7 +12,7 @@ let scaleX = 0.5;
 let scaleY = 0.5;
 let autor = "";
 let t = 0;
-let revealT = 150;
+let revealT = 50;
 let maxParticleSpeed = 1;
 let authorURL = "preview.png";
 
@@ -37,9 +37,22 @@ function createNParticles(n) {
   }
 }
 
+function tryCreateCanvasWithRetry() {
+  // Check for the parent element
+  let parentElement = document.getElementById('drawing');
+  if (parentElement) {
+      // If the parent element exists, create the canvas and attach it
+      let canvas = createCanvas(250, 250);
+      canvas.parent('drawing'); // Attach the canvas to the parent element
+  } else {
+      // If the parent element does not exist, log a message and retry after 100 ms
+      console.info('Parent element #drawing not found. Retrying in 100 ms...');
+      setTimeout(tryCreateCanvasWithRetry, 100); // Retry after 100 ms
+  }
+}
+
 function setup() {
-  let canvas = createCanvas(250, 250);
-  canvas.parent("drawing");
+  tryCreateCanvasWithRetry();
   img.loadPixels();
   particles = [];
   t = 0;
@@ -57,12 +70,12 @@ function setup() {
 function draw() {
   t += 1;
 
-  if ( t < revealT ){
+  if (t < revealT) {
     for (let particle of particles) {
       particle.update();
       particle.show();
     }
-  
+
     if (particles.length < 1000) {
       // Add new particles to the simulation
       createNParticles(100);
