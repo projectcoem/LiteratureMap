@@ -2,7 +2,6 @@
     "nodes": [
         {
             "id": "Pío Baroja",
-            "uuid": "9d50c449-ce8b-43f1-a0c1-53be4177dc93",
             "group": 1,
             "country": "España",
             "birth_year": "1872",
@@ -11,11 +10,11 @@
             "image": "Sagan.png",
             "audio": "tenquita.mp3",
             "story_name": "Las vocales de colores",
+            "story_id": "04d4cd4b-8f57-4910-8cff-cfd34ca6bf46",
             "linked_authors": 11
         },
         {
             "id": "Isaac Asimov",
-            "uuid": "8ccde480-27a6-40d7-9bb8-cd7fa5c965e2",
             "group": 2,
             "country": "Estados Unidos",
             "birth_year": "1920",
@@ -24,11 +23,11 @@
             "image": "Sagan.png",
             "audio": "tenquita.mp3",
             "story_name": "Cuánto se divertían",
+            "story_id": "0674b792-c2c2-44c3-946e-701bc80444d4",
             "linked_authors": 2
         },
         {
             "id": "Mario Benedetti",
-            "uuid": "3599cfd0-b876-4ad4-b911-c4a75f73c236",
             "group": 3,
             "country": "Uruguay",
             "birth_year": "1920",
@@ -37,37 +36,37 @@
             "image": "benedetti.png",
             "audio": "tenquita.mp3",
             "story_name": "Todo lo contrario",
+            "story_id": "008314a5-2c82-40eb-aa56-21320d2a033e",
             "linked_authors": 4
         },
         {
-            "id": "Virgilio Pinera",
-            "uuid": "94fd67c5-724c-449b-b387-5de9c8ebe1fe",
+            "id": "Virgilio Piñera",
             "group": 4,
             "country": "Cuba",
             "birth_year": "1912",
             "death_year": "1979",
-            "genre": "Desconocido",
+            "genre": "Unknown",
             "image": "Sagan.png",
             "audio": "tenquita.mp3",
             "story_name": "La carne",
+            "story_id": "019338f8-a123-430e-a6ce-5976cc68856f",
             "linked_authors": 7
         },
         {
             "id": " Esopo",
-            "uuid": "9166d00e-9206-43c5-860e-b9a322b1f925",
             "group": 5,
             "country": "Grecia",
             "birth_year": "-600",
-            "death_year": "Desconocido",
-            "genre": "Desconocido",
+            "death_year": "Unknown",
+            "genre": "Unknown",
             "image": "Sagan.png",
             "audio": "tenquita.mp3",
             "story_name": "La rana gritona y el león",
+            "story_id": "082082b4-2280-4b9e-8e08-5c0bcc09e116",
             "linked_authors": 1
         },
         {
             "id": "Jean de La Fontaine",
-            "uuid": "f9d711ba-ae8f-4cfb-8df9-f4d7fb1d43ba",
             "group": 6,
             "country": "Francia",
             "birth_year": "1621",
@@ -76,11 +75,11 @@
             "image": "Sagan.png",
             "audio": "tenquita.mp3",
             "story_name": "Nada con exceso",
+            "story_id": "015d63e8-c6aa-42d8-b26e-a6a0903e38c3",
             "linked_authors": 2
         },
         {
             "id": "Adolfo Bioy Casares",
-            "uuid": "4b534347-f0c7-46d8-b3c9-c7f84f3b2fea",
             "group": 7,
             "country": "Argentina",
             "birth_year": "1914",
@@ -89,24 +88,11 @@
             "image": "Sagan.png",
             "audio": "tenquita.mp3",
             "story_name": "Margarita o El poder de la farmacopea",
+            "story_id": "019ad897-7345-41f6-832d-2735f1c0a9d7",
             "linked_authors": 11
         },
         {
-            "id": "Fernán Caballero",
-            "uuid": "7df540fe-6309-4261-9d30-2319adc57696",
-            "group": 1,
-            "country": "España",
-            "birth_year": "1796",
-            "death_year": "1877",
-            "genre": "Romanticismo",
-            "image": "Sagan.png",
-            "audio": "tenquita.mp3",
-            "story_name": "La nina de los tres maridos",
-            "linked_authors": 4
-        },
-        {
             "id": "Enrique Jardiel Poncela",
-            "uuid": "9ceac8c8-f456-4bfd-8711-14eb58e4c93c",
             "group": 1,
             "country": "España",
             "birth_year": "1901",
@@ -115,37 +101,37 @@
             "image": "Sagan.png",
             "audio": "tenquita.mp3",
             "story_name": "Los vecinos del principal derecha",
+            "story_id": "05ddc45a-9c4e-4dec-a99a-f919b35ecc15",
             "linked_authors": 3
         },
         {
             "id": " Anónimo",
-            "uuid": "7ced7f41-3188-4810-a057-8f9887cae63a",
-            "group": 0,
-            "country": "Desconocido",
-            "birth_year": "Desconocido",
-            "death_year": "Desconocido",
-            "genre": "Desconocido",
+            "group": 8,
+            "country": "Unknown",
+            "birth_year": "Unknown",
+            "death_year": "Unknown",
+            "genre": "Unknown",
             "image": "Sagan.png",
             "audio": "tenquita.mp3",
             "story_name": "Rumpelstikin",
+            "story_id": "025f14d6-e76f-473a-9b76-fee469ca1c31",
             "linked_authors": 1
         },
         {
             "id": "Giovanni Papini",
-            "uuid": "54fec2d0-1c27-4239-b5c2-9ea021c2f09d",
             "group": 9,
             "country": "Italia",
             "birth_year": "1881",
             "death_year": "1956",
-            "genre": "Desconocido",
+            "genre": "Unknown",
             "image": "Sagan.png",
             "audio": "tenquita.mp3",
             "story_name": "Profundidad china",
+            "story_id": "010855ed-d937-4746-b1d0-27c9c5a26994",
             "linked_authors": 9
         },
         {
             "id": "Ramón Gómez de la Serna",
-            "uuid": "5e458b25-61cd-4a52-a9d0-8078ead24cab",
             "group": 1,
             "country": "España",
             "birth_year": "1888",
@@ -154,24 +140,11 @@
             "image": "Sagan.png",
             "audio": "tenquita.mp3",
             "story_name": "Metamorfosis",
+            "story_id": "011f284f-55e2-4f74-9288-6ff83002d0f5",
             "linked_authors": 16
         },
         {
-            "id": " Juan Manuel",
-            "uuid": "0a6e8361-fb22-4c27-ae0c-b8deca1ab193",
-            "group": 1,
-            "country": "España",
-            "birth_year": "1282",
-            "death_year": "1348",
-            "genre": "Desconocido",
-            "image": "Sagan.png",
-            "audio": "tenquita.mp3",
-            "story_name": "Cuento VII – El conde Lucanor – Dona Truhana",
-            "linked_authors": 1
-        },
-        {
             "id": "John Updike",
-            "uuid": "cf086d2a-17f6-4c78-9662-266ed28d0266",
             "group": 2,
             "country": "Estados Unidos",
             "birth_year": "1932",
@@ -180,11 +153,11 @@
             "image": "Sagan.png",
             "audio": "tenquita.mp3",
             "story_name": "Pigmalión",
+            "story_id": "07fac2d6-a49d-4bc0-9461-749b8f699bb7",
             "linked_authors": 10
         },
         {
             "id": "Emilia Pardo Bazán",
-            "uuid": "eefb07d7-2a8c-4084-9697-39bba5ca767d",
             "group": 1,
             "country": "España",
             "birth_year": "1851",
@@ -193,11 +166,11 @@
             "image": "Sagan.png",
             "audio": "tenquita.mp3",
             "story_name": "La pasarela",
+            "story_id": "04bb7417-f836-429b-93f7-c2b62ae8d19e",
             "linked_authors": 13
         },
         {
             "id": "Fredric Brown",
-            "uuid": "0feb3540-9ac1-4a9b-8615-ea0dc5bfff48",
             "group": 2,
             "country": "Estados Unidos",
             "birth_year": "1906",
@@ -206,37 +179,37 @@
             "image": "Sagan.png",
             "audio": "tenquita.mp3",
             "story_name": "El poder",
+            "story_id": "01b6ae49-4c7a-4989-960b-4c5448b27faf",
             "linked_authors": 1
         },
         {
             "id": " Le Prince de Beaumont",
-            "uuid": "8be5493d-1da8-4351-a3e8-c2e5684c5e10",
             "group": 6,
             "country": "Francia",
             "birth_year": "1711",
             "death_year": "1780",
-            "genre": "Desconocido",
+            "genre": "Unknown",
             "image": "Sagan.png",
             "audio": "tenquita.mp3",
             "story_name": "Cuento de los tres deseos",
+            "story_id": "06aac7bb-f54a-40ab-a3c0-9e558e43af03",
             "linked_authors": 1
         },
         {
             "id": "Jorge Ibargüengoitia",
-            "uuid": "65400c00-f59d-4e42-b0b2-eb6a29cfaada",
             "group": 11,
             "country": "Mexico",
             "birth_year": "1928",
             "death_year": "1983",
-            "genre": "Desconocido",
+            "genre": "Unknown",
             "image": "Sagan.png",
             "audio": "tenquita.mp3",
             "story_name": "La ley de Herodes",
+            "story_id": "04a6aa10-94b1-4d16-b4bb-570aaaa73ea8",
             "linked_authors": 6
         },
         {
-            "id": "León Tolstoi",
-            "uuid": "0c1040c5-7336-4d52-ab5a-0881766dabd8",
+            "id": "León Tolstói",
             "group": 12,
             "country": "Rusia",
             "birth_year": "1828",
@@ -245,24 +218,24 @@
             "image": "Sagan.png",
             "audio": "tenquita.mp3",
             "story_name": "El primer destilador",
+            "story_id": "028c710e-63d7-4e7f-b188-e2de980a14e3",
             "linked_authors": 2
         },
         {
             "id": "Catherine Crowe",
-            "uuid": "89164983-fde2-4ab7-800d-3d25dfbfe314",
             "group": 13,
             "country": "Inglaterra",
             "birth_year": "1790",
             "death_year": "1876",
-            "genre": "Desconocido",
+            "genre": "Unknown",
             "image": "Sagan.png",
             "audio": "tenquita.mp3",
             "story_name": "La casa embrujada",
+            "story_id": "046cbbf9-4d77-4ea1-a8e5-ac91879df4f1",
             "linked_authors": 2
         },
         {
             "id": "H. P. Lovecraft",
-            "uuid": "4079e046-c7ae-4b36-beee-f1f24549e619",
             "group": 2,
             "country": "Estados Unidos",
             "birth_year": "1890",
@@ -271,37 +244,37 @@
             "image": "Sagan.png",
             "audio": "tenquita.mp3",
             "story_name": "Los gatos de Ulthar",
+            "story_id": "05f16c68-4145-4c38-9044-424a23db9ed6",
             "linked_authors": 9
         },
         {
             "id": "Julio Torri",
-            "uuid": "0f530cd8-7828-4627-984f-8b687e45a014",
             "group": 11,
             "country": "Mexico",
             "birth_year": "1889",
             "death_year": "1970",
-            "genre": "Desconocido",
+            "genre": "Unknown",
             "image": "Sagan.png",
             "audio": "tenquita.mp3",
             "story_name": "De funerales",
+            "story_id": "02071218-77af-49ae-bf49-3872a28f9e0c",
             "linked_authors": 1
         },
         {
             "id": "Enrique Anderson Imbert",
-            "uuid": "52e4d40b-59d4-4eea-8d1d-5be19ad3ae04",
             "group": 7,
             "country": "Argentina",
             "birth_year": "1910",
             "death_year": "2000",
-            "genre": "Desconocido",
+            "genre": "Unknown",
             "image": "Sagan.png",
             "audio": "tenquita.mp3",
             "story_name": "Las estatuas",
+            "story_id": "030c4675-7812-4fba-8190-b5011b64892b",
             "linked_authors": 1
         },
         {
             "id": "Clarice Lispector",
-            "uuid": "4dd3cfd3-cff6-429d-bc05-0d618be4724f",
             "group": 15,
             "country": "Brasil",
             "birth_year": "1920",
@@ -310,11 +283,11 @@
             "image": "Sagan.png",
             "audio": "tenquita.mp3",
             "story_name": "El muerto en el mar de Urca",
+            "story_id": "0039192c-6b8e-4ebf-a90d-5d3983200fb9",
             "linked_authors": 6
         },
         {
-            "id": "Ferdo Pessoa",
-            "uuid": "e2f50dcf-853f-45ee-8c42-6cb5296ffe50",
+            "id": "Fernando Pessoa",
             "group": 16,
             "country": "Portugal",
             "birth_year": "1888",
@@ -323,102 +296,102 @@
             "image": "Sagan.png",
             "audio": "tenquita.mp3",
             "story_name": "Fábula",
+            "story_id": "0182d6fa-3c6f-47bb-afcd-15591596c7d4",
             "linked_authors": 21
         },
         {
             "id": "Augusto Monterroso",
-            "uuid": "76c06dc4-509f-4041-abcb-88353c6b3ba0",
             "group": 18,
             "country": "Guatemala",
             "birth_year": "1921",
             "death_year": "2003",
-            "genre": "Desconocido",
+            "genre": "Unknown",
             "image": "monterroso.png",
             "audio": "tenquita.mp3",
             "story_name": "El grillo maestro",
+            "story_id": "0349ff75-e9f8-4dcc-8e41-56182e1e90ca",
             "linked_authors": 1
         },
         {
             "id": "Lafcadio Hearn",
-            "uuid": "7c211c7f-6029-4ddd-91fd-f35072a3d3a7",
             "group": 5,
             "country": "Grecia",
             "birth_year": "1850",
             "death_year": "1904",
-            "genre": "Desconocido",
+            "genre": "Unknown",
             "image": "Sagan.png",
             "audio": "tenquita.mp3",
             "story_name": "En una estación de ferrocarril",
+            "story_id": "01da4daa-b6f4-4489-9169-3eefaa5383da",
             "linked_authors": 2
         },
         {
             "id": "Marco Denevi",
-            "uuid": "47b6a957-5284-44c8-89e8-5262b8430534",
             "group": 7,
             "country": "Argentina",
             "birth_year": "1922",
             "death_year": "1998",
-            "genre": "Desconocido",
+            "genre": "Unknown",
             "image": "Sagan.png",
             "audio": "tenquita.mp3",
             "story_name": "Los animales en el arca",
+            "story_id": "04f4b732-1520-4212-9149-f5f3aa3f3303",
             "linked_authors": 1
         },
         {
             "id": "Cesare Pavese",
-            "uuid": "b1ebfc09-601f-43e4-bbd9-9b9a8ed3f80e",
             "group": 9,
             "country": "Italia",
             "birth_year": "1908",
             "death_year": "1950",
-            "genre": "Desconocido",
+            "genre": "Unknown",
             "image": "Sagan.png",
             "audio": "tenquita.mp3",
             "story_name": "El grupo",
+            "story_id": "07d06794-3087-437f-b3ed-6aee52641254",
             "linked_authors": 6
         },
         {
             "id": "Italo Calvino",
-            "uuid": "6dfe37d8-b94d-4d58-968e-c4ab2f667394",
             "group": 9,
             "country": "Italia",
             "birth_year": "1923",
             "death_year": "1985",
-            "genre": "Desconocido",
+            "genre": "Unknown",
             "image": "Sagan.png",
             "audio": "tenquita.mp3",
             "story_name": "La leyenda de Carlomagno",
+            "story_id": "01008e91-a518-433d-9cd9-2381b4b754b5",
             "linked_authors": 4
         },
         {
             "id": "Alfonso Reyes",
-            "uuid": "44953440-8bf0-444e-a1af-126b42823b69",
             "group": 11,
             "country": "Mexico",
             "birth_year": "1889",
             "death_year": "1959",
-            "genre": "Desconocido",
+            "genre": "Unknown",
             "image": "Sagan.png",
             "audio": "tenquita.mp3",
             "story_name": "Ley profunda",
+            "story_id": "01479c17-3a36-479a-8892-c106f5e239c2",
             "linked_authors": 1
         },
         {
             "id": "Aleksandr Nikoalevich Afanasiev",
-            "uuid": "ddad4a1c-7935-44e2-b42e-7d08c47ef1e7",
             "group": 12,
             "country": "Rusia",
             "birth_year": "1826",
             "death_year": "1871",
-            "genre": "Desconocido",
+            "genre": "Unknown",
             "image": "Sagan.png",
             "audio": "tenquita.mp3",
             "story_name": "Dios y el párroco",
+            "story_id": "064f393a-497d-4508-9100-72c30e378b1a",
             "linked_authors": 1
         },
         {
             "id": "Manuel Romero de Terreros",
-            "uuid": "7319c89b-d3d8-4844-8726-fd67f001c50d",
             "group": 11,
             "country": "Mexico",
             "birth_year": "1880",
@@ -427,11 +400,11 @@
             "image": "Sagan.png",
             "audio": "tenquita.mp3",
             "story_name": "Tristis imago",
+            "story_id": "07977d1a-e72b-4413-87f3-d9f239212b06",
             "linked_authors": 1
         },
         {
             "id": "Hans Christian Andersen",
-            "uuid": "62d0a4de-7465-4838-bc95-0a4ed19993e1",
             "group": 19,
             "country": "Dinamarca",
             "birth_year": "1805",
@@ -440,50 +413,50 @@
             "image": "Sagan.png",
             "audio": "tenquita.mp3",
             "story_name": "La princesa y el frijol",
+            "story_id": "0802ccbf-e9eb-4822-a9af-9adf3eea48ee",
             "linked_authors": 2
         },
         {
             "id": " Voltaire",
-            "uuid": "fef2c23f-0904-45f4-8d1e-cf45e951e6b4",
             "group": 6,
             "country": "Francia",
             "birth_year": "1694",
             "death_year": "1778",
-            "genre": "Desconocido",
+            "genre": "Unknown",
             "image": "Sagan.png",
             "audio": "tenquita.mp3",
             "story_name": "El enigma",
+            "story_id": "0723d022-3183-45dc-8670-b3ad1babae87",
             "linked_authors": 1
         },
         {
             "id": "Rabindranath Tagore",
-            "uuid": "5ae8d7a6-56de-47c6-a91f-d4d2367d11d2",
             "group": 10,
             "country": "India",
             "birth_year": "1861",
             "death_year": "1941",
-            "genre": "Desconocido",
+            "genre": "Unknown",
             "image": "Sagan.png",
             "audio": "tenquita.mp3",
             "story_name": "La higuera",
+            "story_id": "01a2583a-9371-479f-ab5d-03586e8d4b2d",
             "linked_authors": 16
         },
         {
             "id": "Lord Dunsany",
-            "uuid": "c2999348-76ef-4cd6-8b97-43b77a8fbd97",
             "group": 20,
             "country": "Irlanda",
             "birth_year": "1878",
             "death_year": "1957",
-            "genre": "Desconocido",
+            "genre": "Unknown",
             "image": "Sagan.png",
             "audio": "tenquita.mp3",
             "story_name": "En Zaccarath",
+            "story_id": "002eca9b-3787-4ca3-8d4b-07cb4d55d332",
             "linked_authors": 4
         },
         {
             "id": "Álvaro Cepeda Samudio",
-            "uuid": "df64bfba-ff94-4695-95bd-6eb628311428",
             "group": 21,
             "country": "Colombia",
             "birth_year": "1926",
@@ -492,11 +465,11 @@
             "image": "Sagan.png",
             "audio": "tenquita.mp3",
             "story_name": "Vamos a matar los Gaticos",
+            "story_id": "020fc30c-cba0-4dd6-b439-f3acd393aba6",
             "linked_authors": 10
         },
         {
             "id": "Julio Ramón Ribeyro",
-            "uuid": "680db1cd-c1d1-4dad-b579-90e8daea8e06",
             "group": 22,
             "country": "Peru",
             "birth_year": "1929",
@@ -505,11 +478,11 @@
             "image": "Sagan.png",
             "audio": "tenquita.mp3",
             "story_name": "Dichos de Luder 37",
+            "story_id": "05efee70-176e-4dab-bb98-23416cd76934",
             "linked_authors": 3
         },
         {
             "id": "Felipe Trigo",
-            "uuid": "469590db-d395-471a-8381-28c67beb6f63",
             "group": 1,
             "country": "España",
             "birth_year": "1864",
@@ -518,11 +491,11 @@
             "image": "Sagan.png",
             "audio": "tenquita.mp3",
             "story_name": "La primera conquista",
+            "story_id": "048995ca-8225-44d4-aba3-cd9db40439db",
             "linked_authors": 1
         },
         {
             "id": "Giovanni Boccaccio",
-            "uuid": "6842b1c2-5379-4eae-a0bb-40124987ced0",
             "group": 9,
             "country": "Italia",
             "birth_year": "1313",
@@ -531,11 +504,11 @@
             "image": "Sagan.png",
             "audio": "tenquita.mp3",
             "story_name": "Los hombres más nobles y antiguos",
+            "story_id": "06ed60a4-5ff6-4329-bed3-7ed42618dba6",
             "linked_authors": 6
         },
         {
             "id": "Juan Carlos Onetti",
-            "uuid": "0e82e589-23e3-4632-a704-e73d89849d61",
             "group": 3,
             "country": "Uruguay",
             "birth_year": "1909",
@@ -544,11 +517,11 @@
             "image": "Sagan.png",
             "audio": "tenquita.mp3",
             "story_name": "Jabón",
+            "story_id": "02b45f03-0f4f-461e-bdd0-3f8ec07b9e30",
             "linked_authors": 13
         },
         {
             "id": "Hermann Hesse",
-            "uuid": "24014a99-edd1-41d8-9559-201d17e4022a",
             "group": 23,
             "country": "Alemania",
             "birth_year": "1877",
@@ -557,11 +530,11 @@
             "image": "Sagan.png",
             "audio": "tenquita.mp3",
             "story_name": "La fábula de los ciegos",
+            "story_id": "0635dcb9-ee50-4a46-83a0-ae9820453432",
             "linked_authors": 5
         },
         {
             "id": "Hermanos Grimm",
-            "uuid": "f403c876-95c6-4655-bc49-bf273fc7c9d2",
             "group": 23,
             "country": "Alemania",
             "birth_year": "1785",
@@ -570,11 +543,11 @@
             "image": "Sagan.png",
             "audio": "tenquita.mp3",
             "story_name": "El ratoncillo, el pajarillo y la salchicha",
+            "story_id": "008b15bb-ebbc-4bd0-8bca-e5e01d509ff2",
             "linked_authors": 1
         },
         {
             "id": "Franz Kafka",
-            "uuid": "3fea8a53-4930-4fbc-a8e8-b26d60e4d135",
             "group": 24,
             "country": "Checoslovaquia",
             "birth_year": "1883",
@@ -583,11 +556,11 @@
             "image": "Sagan.png",
             "audio": "tenquita.mp3",
             "story_name": "El puente",
+            "story_id": "00fa2b34-74a2-4fc6-a86a-0aefce046746",
             "linked_authors": 14
         },
         {
-            "id": "Anton Chejov",
-            "uuid": "eb77c368-b01e-40ae-b3bf-5291fd8572f9",
+            "id": "Antón Chéjov",
             "group": 12,
             "country": "Rusia",
             "birth_year": "1860",
@@ -596,11 +569,11 @@
             "image": "chejov.png",
             "audio": "tenquita.mp3",
             "story_name": "En la barbería",
+            "story_id": "004d95cc-e7cf-4ed3-a809-6881c0c721f7",
             "linked_authors": 10
         },
         {
             "id": "Gabriel García Márquez",
-            "uuid": "25838527-7a66-4448-8716-007892c1fabe",
             "group": 21,
             "country": "Colombia",
             "birth_year": "1927",
@@ -609,37 +582,37 @@
             "image": "preview.png",
             "audio": "algo_grave_va_a_ocurrir.mp3",
             "story_name": "Algo muy grave va a suceder en este pueblo",
+            "story_id": "algo_grave_va_a_ocurrir",
             "linked_authors": 17
         },
         {
             "id": "István Örkény",
-            "uuid": "7a42c9e0-6b13-4631-b4bd-7a380598f80e",
             "group": 25,
             "country": "Hungria",
             "birth_year": "1912",
             "death_year": "1979",
-            "genre": "Desconocido",
+            "genre": "Unknown",
             "image": "Sagan.png",
             "audio": "tenquita.mp3",
             "story_name": "In memoriam Dr. KHG",
+            "story_id": "05692068-ff0d-4662-b5bf-2f084e5f27e7",
             "linked_authors": 1
         },
         {
             "id": "Horacio Quiroga",
-            "uuid": "b4a81a5e-47ce-4f24-b5a3-e1572ec65825",
             "group": 3,
             "country": "Uruguay",
             "birth_year": "1878",
             "death_year": "1937",
-            "genre": "Desconocido",
+            "genre": "Unknown",
             "image": "quiroga.png",
             "audio": "tenquita.mp3",
             "story_name": "El gerente",
+            "story_id": "051b2e17-9a67-4615-b6df-2e635cf918cb",
             "linked_authors": 9
         },
         {
             "id": "Teresa de la Parra",
-            "uuid": "8c1348ad-7b5b-4568-89dd-099af1b87653",
             "group": 26,
             "country": "Venezuela",
             "birth_year": "1889",
@@ -648,50 +621,50 @@
             "image": "Sagan.png",
             "audio": "tenquita.mp3",
             "story_name": "El genio del pesacartas",
+            "story_id": "060da8cf-5ebe-4f66-9cb4-9ed4100ec6bb",
             "linked_authors": 13
         },
         {
             "id": "Inés Arredondo",
-            "uuid": "bc22c713-0667-4bfd-8713-c55e05fe31f7",
             "group": 11,
             "country": "Mexico",
             "birth_year": "1928",
             "death_year": "1989",
-            "genre": "Desconocido",
+            "genre": "Unknown",
             "image": "Sagan.png",
             "audio": "tenquita.mp3",
             "story_name": "El hombre en la noche",
+            "story_id": "06ac0e1c-1a80-421c-b4b6-cd88ead07a78",
             "linked_authors": 8
         },
         {
             "id": "Edmundo Valadés",
-            "uuid": "1003c31b-2406-4c34-86f0-8527dd8c72ee",
             "group": 11,
             "country": "Mexico",
             "birth_year": "1915",
             "death_year": "1994",
-            "genre": "Desconocido",
+            "genre": "Unknown",
             "image": "Sagan.png",
             "audio": "tenquita.mp3",
             "story_name": "Final",
+            "story_id": "04f51717-edc8-4059-a796-b606adfd16af",
             "linked_authors": 1
         },
         {
             "id": "Joaquim Ruyra",
-            "uuid": "c83c75b3-aea6-403a-8df8-d5c21aba6732",
             "group": 1,
             "country": "España",
             "birth_year": "1858",
             "death_year": "1939",
-            "genre": "Desconocido",
+            "genre": "Unknown",
             "image": "Sagan.png",
             "audio": "tenquita.mp3",
             "story_name": "Aniversario",
+            "story_id": "0088eb17-57aa-43fa-a8d1-9f91d38e0331",
             "linked_authors": 1
         },
         {
             "id": "Gianni Rodari",
-            "uuid": "caa6eed1-bbbf-4e9b-8811-3937a949d841",
             "group": 9,
             "country": "Italia",
             "birth_year": "1920",
@@ -700,11 +673,11 @@
             "image": "Sagan.png",
             "audio": "tenquita.mp3",
             "story_name": "El país con el “des” delante",
+            "story_id": "082e8e8a-fa88-4454-9461-ee3d225c0161",
             "linked_authors": 1
         },
         {
             "id": "Jacques Sternberg",
-            "uuid": "9475622a-8ae1-4bc4-8131-aad7a6545e48",
             "group": 27,
             "country": "Belgica",
             "birth_year": "1923",
@@ -713,11 +686,11 @@
             "image": "Sagan.png",
             "audio": "tenquita.mp3",
             "story_name": "La sangre",
+            "story_id": "023121f4-b405-49dc-b5b6-10fd101c6bef",
             "linked_authors": 1
         },
         {
             "id": "Baldomero Lillo",
-            "uuid": "1f8fc5ef-0641-4b78-abc2-9272793c987c",
             "group": 28,
             "country": "Chile",
             "birth_year": "1867",
@@ -726,24 +699,24 @@
             "image": "Sagan.png",
             "audio": "tenquita.mp3",
             "story_name": "La cruz de Salomón",
+            "story_id": "02f028ff-a835-4d06-9e2b-b9181520b073",
             "linked_authors": 1
         },
         {
-            "id": "Eduardo Gudino Kieffer",
-            "uuid": "c8e8573d-bdd1-4b4f-be10-59ae01045db2",
+            "id": "Eduardo Gudiño Kieffer",
             "group": 7,
             "country": "Argentina",
             "birth_year": "1935",
             "death_year": "2002",
-            "genre": "Desconocido",
+            "genre": "Unknown",
             "image": "Sagan.png",
             "audio": "tenquita.mp3",
             "story_name": "Casa di Amore e Psyche",
+            "story_id": "0cf3e05a-8c88-43e7-b401-f417ae5d240d",
             "linked_authors": 2
         },
         {
             "id": "Ray Bradbury",
-            "uuid": "0d393880-9922-4d20-a8c3-f1953a22a70e",
             "group": 2,
             "country": "Estados Unidos",
             "birth_year": "1920",
@@ -752,11 +725,11 @@
             "image": "Sagan.png",
             "audio": "tenquita.mp3",
             "story_name": "La última noche del mundo",
+            "story_id": "0c25fbb5-8699-49b6-8e3b-97cf26ec26cb",
             "linked_authors": 1
         },
         {
             "id": "Manuel Mujica Lainez",
-            "uuid": "70fc7a64-2e6d-4d08-a6d1-691f61ef15bd",
             "group": 7,
             "country": "Argentina",
             "birth_year": "1910",
@@ -765,11 +738,11 @@
             "image": "Sagan.png",
             "audio": "tenquita.mp3",
             "story_name": "La mojiganga (1753)",
+            "story_id": "0f0e5325-e7df-4e4f-85f2-8351758407a7",
             "linked_authors": 4
         },
         {
-            "id": "G.K. Chesterton",
-            "uuid": "61667fec-f802-4aed-af50-b69001f19a61",
+            "id": "G. K. Chesterton",
             "group": 13,
             "country": "Inglaterra",
             "birth_year": "1874",
@@ -778,50 +751,24 @@
             "image": "Sagan.png",
             "audio": "tenquita.mp3",
             "story_name": "El árbol del orgullo",
+            "story_id": "0a418d63-6776-4841-b5ea-8871d2d563c5",
             "linked_authors": 14
         },
         {
             "id": "Jorge Luis Borges",
-            "uuid": "e01d8894-adde-4514-afc9-4a46cbef58c7",
             "group": 7,
             "country": "Argentina",
             "birth_year": "1899",
             "death_year": "1986",
             "genre": "Romanticismo",
-            "image": "Sagan.png",
+            "image": "borges.png",
             "audio": "tenquita.mp3",
             "story_name": "La intrusa",
+            "story_id": "0888c63d-330a-499a-9d46-b5b80926189d",
             "linked_authors": 46
         },
         {
-            "id": "Luis Vidales",
-            "uuid": "a58a487d-f10d-4512-ba3b-f3927972b201",
-            "group": 21,
-            "country": "Colombia",
-            "birth_year": "1904",
-            "death_year": "1990",
-            "genre": "Desconocido",
-            "image": "Sagan.png",
-            "audio": "tenquita.mp3",
-            "story_name": "Música de maDesconocidoa",
-            "linked_authors": 4
-        },
-        {
-            "id": "Mark Twain",
-            "uuid": "f592ba63-26c8-4449-b482-8456b43497e1",
-            "group": 2,
-            "country": "Estados Unidos",
-            "birth_year": "1835",
-            "death_year": "1910",
-            "genre": "Romanticismo",
-            "image": "Sagan.png",
-            "audio": "tenquita.mp3",
-            "story_name": "Todo por la companía",
-            "linked_authors": 5
-        },
-        {
             "id": "Miguel de Unamuno",
-            "uuid": "3e4606d4-1056-44fe-be4e-38d890d28388",
             "group": 1,
             "country": "España",
             "birth_year": "1864",
@@ -830,24 +777,24 @@
             "image": "Sagan.png",
             "audio": "tenquita.mp3",
             "story_name": "Cruce de caminos",
+            "story_id": "0c61f72c-d162-4672-b8e0-dfada9ae1621",
             "linked_authors": 14
         },
         {
             "id": "Juan José Arreola",
-            "uuid": "c9573b81-5fbc-4904-9183-3c48a1fa084c",
             "group": 11,
             "country": "Mexico",
             "birth_year": "1918",
             "death_year": "2001",
-            "genre": "Desconocido",
+            "genre": "Unknown",
             "image": "Sagan.png",
             "audio": "tenquita.mp3",
             "story_name": "Topos",
+            "story_id": "09097e63-4c58-4847-9c62-c096cf8601ba",
             "linked_authors": 25
         },
         {
-            "id": "Gibrán Jalil Gibrán",
-            "uuid": "43e32847-420b-495f-bf65-56320ae2eb99",
+            "id": "Yibrán Jalil Yibrán",
             "group": 29,
             "country": "Líbano",
             "birth_year": "1883",
@@ -856,24 +803,24 @@
             "image": "Sagan.png",
             "audio": "tenquita.mp3",
             "story_name": "El oro",
+            "story_id": "0a65162c-2fe7-4a91-90d4-f49852f7d659",
             "linked_authors": 1
         },
         {
             "id": "Lewis Carroll",
-            "uuid": "48f50600-5ebb-4fc0-9105-06dadba0d0ab",
             "group": 13,
             "country": "Inglaterra",
             "birth_year": "1832",
             "death_year": "1898",
-            "genre": "Desconocido",
+            "genre": "Unknown",
             "image": "Sagan.png",
             "audio": "tenquita.mp3",
             "story_name": "Moverse del lado del espejo",
+            "story_id": "0b7c3ab0-db29-4488-b7c6-48353d978c0e",
             "linked_authors": 4
         },
         {
             "id": "Marqués de Sade",
-            "uuid": "65115344-a135-41a2-9b71-9b2527e33a14",
             "group": 6,
             "country": "Francia",
             "birth_year": "1740",
@@ -882,11 +829,11 @@
             "image": "Sagan.png",
             "audio": "tenquita.mp3",
             "story_name": "Un obispo en el atolladero",
+            "story_id": "0e9dc94d-c7b9-436d-9c69-2ce215cd7bb4",
             "linked_authors": 16
         },
         {
             "id": "Kjell Askildsen",
-            "uuid": "5632a9e5-4997-4a62-bbb8-d51e989471ca",
             "group": 30,
             "country": "Noruega",
             "birth_year": "1929",
@@ -895,37 +842,37 @@
             "image": "Sagan.png",
             "audio": "tenquita.mp3",
             "story_name": "En la peluquería",
+            "story_id": "0a40c2c3-072d-48f7-b75d-cb8382df6568",
             "linked_authors": 1
         },
         {
             "id": "Abelardo Díaz Alfaro",
-            "uuid": "19619571-51e7-4171-8197-e3d6bdff4030",
             "group": 31,
             "country": "Puerto Rico",
             "birth_year": "1919",
             "death_year": "1999",
-            "genre": "Desconocido",
+            "genre": "Unknown",
             "image": "Sagan.png",
             "audio": "tenquita.mp3",
             "story_name": "Santa Clo va a La Cuchilla",
+            "story_id": "0ae1f79a-0a8e-4cfc-90c2-f892de12f88f",
             "linked_authors": 1
         },
         {
             "id": "Angélica Gorodischer",
-            "uuid": "d287c31c-9797-42f0-a78f-136720a0118d",
             "group": 7,
             "country": "Argentina",
             "birth_year": "1928",
             "death_year": "2022",
-            "genre": "Desconocido",
+            "genre": "Unknown",
             "image": "Sagan.png",
             "audio": "tenquita.mp3",
             "story_name": "La naturaleza es una madre cruel",
+            "story_id": "0c61f690-57c8-4199-b8e9-f97f5a483aad",
             "linked_authors": 1
         },
         {
             "id": "Charles Bukowski",
-            "uuid": "a90b2f40-1504-4429-be55-26ca45728dd4",
             "group": 2,
             "country": "Estados Unidos",
             "birth_year": "1920",
@@ -934,24 +881,24 @@
             "image": "bukowski.png",
             "audio": "tenquita.mp3",
             "story_name": "Esa pena de escoria",
+            "story_id": "09b829b9-5b8a-45c9-9cb5-247d183ed658",
             "linked_authors": 1
         },
         {
             "id": "Félix Fénéon",
-            "uuid": "58ff58bd-2d37-4ebd-bf8f-ac988878b60e",
             "group": 6,
             "country": "Francia",
             "birth_year": "1861",
             "death_year": "1944",
-            "genre": "Desconocido",
+            "genre": "Unknown",
             "image": "Sagan.png",
             "audio": "tenquita.mp3",
             "story_name": "Estafa",
+            "story_id": "0e5da277-9daf-42e1-9d54-963c4d8d79c0",
             "linked_authors": 1
         },
         {
             "id": "Julio Cortázar",
-            "uuid": "6c5f3c02-463f-4a64-aaa5-ff15ae6062bb",
             "group": 7,
             "country": "Argentina",
             "birth_year": "1914",
@@ -960,37 +907,37 @@
             "image": "cortazar.png",
             "audio": "tenquita.mp3",
             "story_name": "Rayuela: Capítulo 68",
+            "story_id": "0d56cc40-0f01-4e58-8bab-409de18bb358",
             "linked_authors": 25
         },
         {
             "id": "Rudyard Kipling",
-            "uuid": "f561fcd4-b657-451b-8633-f4596dac235d",
             "group": 32,
             "country": "Reino Unido",
             "birth_year": "1865",
             "death_year": "1936",
-            "genre": "Desconocido",
+            "genre": "Unknown",
             "image": "Sagan.png",
             "audio": "tenquita.mp3",
             "story_name": "La historia de Muhammad Din",
+            "story_id": "0a8d42d5-3015-434c-a21b-5200138e0e37",
             "linked_authors": 4
         },
         {
             "id": "Jules Renard",
-            "uuid": "207b8f1b-4703-4206-9459-c4040358e598",
             "group": 6,
             "country": "Francia",
             "birth_year": "1864",
             "death_year": "1910",
-            "genre": "Desconocido",
+            "genre": "Unknown",
             "image": "Sagan.png",
             "audio": "tenquita.mp3",
             "story_name": "El informe",
+            "story_id": "0971b19c-dad5-406a-a36a-120973542a2e",
             "linked_authors": 1
         },
         {
             "id": "Stephen Crane",
-            "uuid": "eb555620-3617-44cb-b3f2-4f53d20f1041",
             "group": 2,
             "country": "Estados Unidos",
             "birth_year": "1871",
@@ -999,11 +946,11 @@
             "image": "Sagan.png",
             "audio": "tenquita.mp3",
             "story_name": "El fallo del sabio",
+            "story_id": "0b2145a3-f3db-4bc1-9638-73207f084356",
             "linked_authors": 3
         },
         {
             "id": "Truman Capote",
-            "uuid": "d68eba3d-0ace-4f7a-bb36-050b0c5beb09",
             "group": 2,
             "country": "Estados Unidos",
             "birth_year": "1924",
@@ -1012,50 +959,50 @@
             "image": "Sagan.png",
             "audio": "tenquita.mp3",
             "story_name": "La forma de las cosas",
+            "story_id": "08bbde9c-e005-4c58-9ce1-ec42e95037b9",
             "linked_authors": 5
         },
         {
             "id": " Villiers de L'Isle Adam",
-            "uuid": "92415998-75b0-409d-a088-a97a20a68eeb",
             "group": 6,
             "country": "Francia",
             "birth_year": "1838",
             "death_year": "1889",
-            "genre": "Desconocido",
+            "genre": "Unknown",
             "image": "Sagan.png",
             "audio": "tenquita.mp3",
             "story_name": "El secreto de la antigua música",
+            "story_id": "0b26b745-8619-497e-b6e0-cb269ecca4fe",
             "linked_authors": 1
         },
         {
             "id": "Peter Bichsel",
-            "uuid": "f284aeb1-75a7-443e-b6ec-ac6dfe57c572",
             "group": 33,
             "country": "Suiza",
             "birth_year": "1935",
-            "death_year": "Desconocido",
-            "genre": "Desconocido",
+            "death_year": "Unknown",
+            "genre": "Unknown",
             "image": "Sagan.png",
             "audio": "tenquita.mp3",
             "story_name": "Una mesa es una mesa",
+            "story_id": "0838e0f0-6ff9-45c7-8c27-72e3651cd2ab",
             "linked_authors": 1
         },
         {
             "id": "Lino Novás Calvo",
-            "uuid": "7bbca691-f59b-4048-9b78-8f8172e42625",
             "group": 4,
             "country": "Cuba",
             "birth_year": "1903",
             "death_year": "1983",
-            "genre": "Desconocido",
+            "genre": "Unknown",
             "image": "Sagan.png",
             "audio": "tenquita.mp3",
             "story_name": "El bejuco",
+            "story_id": "0a5de26b-adf7-4a84-849a-5a5a4a76d11b",
             "linked_authors": 3
         },
         {
             "id": "Roberto Arlt",
-            "uuid": "a8695058-51bb-45c7-b259-f9049ece2253",
             "group": 7,
             "country": "Argentina",
             "birth_year": "1900",
@@ -1064,24 +1011,24 @@
             "image": "Sagan.png",
             "audio": "tenquita.mp3",
             "story_name": "Un error judicial",
+            "story_id": "0f3ff1ce-e43e-4abb-bf79-20251d53f58d",
             "linked_authors": 7
         },
         {
             "id": "José Saramago",
-            "uuid": "709d4e5c-f54f-4f49-9ba1-e3e8700c2c11",
             "group": 16,
             "country": "Portugal",
             "birth_year": "1922",
             "death_year": "2010",
-            "genre": "Desconocido",
+            "genre": "Unknown",
             "image": "Sagan.png",
             "audio": "tenquita.mp3",
             "story_name": "Narciso",
+            "story_id": "0b0ba725-ad85-4c29-b35c-da5bb1586e57",
             "linked_authors": 3
         },
         {
             "id": "Ambrose Bierce",
-            "uuid": "5a104b66-648d-4792-92bc-3ef63e1461c1",
             "group": 2,
             "country": "Estados Unidos",
             "birth_year": "1842",
@@ -1090,37 +1037,37 @@
             "image": "Sagan.png",
             "audio": "tenquita.mp3",
             "story_name": "Diagnóstico de muerte",
+            "story_id": "0a4521e0-3d26-4eb8-9ab3-7878435430ee",
             "linked_authors": 9
         },
         {
-            "id": "Yasunari Japon",
-            "uuid": "4dd44287-3395-47fe-9c37-c6f0a3301f4b",
+            "id": "Yasunari Kawabata",
             "group": 34,
             "country": "Japon",
             "birth_year": "1899",
             "death_year": "1972",
-            "genre": "Desconocido",
+            "genre": "Unknown",
             "image": "Sagan.png",
             "audio": "tenquita.mp3",
             "story_name": "Inmortalidad",
+            "story_id": "0c8ab536-10fb-4605-8ac0-a6cbff3f6085",
             "linked_authors": 6
         },
         {
-            "id": "Slawomir Mrozek",
-            "uuid": "6f0a9171-1ab8-4640-9842-e7e0c0820094",
+            "id": "Sławomir Mrożek",
             "group": 35,
             "country": "Polonia",
             "birth_year": "1930",
             "death_year": "2013",
-            "genre": "Desconocido",
+            "genre": "Unknown",
             "image": "Sagan.png",
             "audio": "tenquita.mp3",
             "story_name": "El río",
+            "story_id": "0be3ee63-de87-415d-9114-41b48bfef9eb",
             "linked_authors": 1
         },
         {
             "id": "Alfred de Musset",
-            "uuid": "13d5eb7a-46d2-4f07-b1a1-41331d997901",
             "group": 6,
             "country": "Francia",
             "birth_year": "1810",
@@ -1129,50 +1076,50 @@
             "image": "Sagan.png",
             "audio": "tenquita.mp3",
             "story_name": "La mujer que comía poco",
+            "story_id": "0874d206-3865-421f-bff4-3a4cded64e79",
             "linked_authors": 3
         },
         {
             "id": "Héctor Tizón",
-            "uuid": "6eb70fdb-a443-4f3a-ae43-9b81597b3747",
             "group": 7,
             "country": "Argentina",
             "birth_year": "1929",
             "death_year": "2012",
-            "genre": "Desconocido",
+            "genre": "Unknown",
             "image": "Sagan.png",
             "audio": "tenquita.mp3",
             "story_name": "Mazariego",
+            "story_id": "0cad75db-f5c4-40b3-8fdd-c3c3bf2f0978",
             "linked_authors": 4
         },
         {
             "id": "Juan Bosch",
-            "uuid": "346ead25-a991-446f-889d-b21219d37d5e",
             "group": 36,
             "country": "Republica Dominicana",
             "birth_year": "1909",
             "death_year": "2001",
-            "genre": "Desconocido",
+            "genre": "Unknown",
             "image": "Sagan.png",
             "audio": "tenquita.mp3",
             "story_name": "Los amos",
+            "story_id": "0d432a0b-fa0a-4226-adca-e515512ca9c1",
             "linked_authors": 2
         },
         {
             "id": "Ricardo Güiraldes",
-            "uuid": "454db61a-09e0-41c1-87d7-5918505ab8ce",
             "group": 7,
             "country": "Argentina",
             "birth_year": "1886",
             "death_year": "1927",
-            "genre": "Desconocido",
+            "genre": "Unknown",
             "image": "Sagan.png",
             "audio": "tenquita.mp3",
             "story_name": "Facundo",
+            "story_id": "0ed08f4a-becd-47e1-bb49-44dd24049875",
             "linked_authors": 3
         },
         {
-            "id": "Víctor Hugo",
-            "uuid": "589b516e-a764-426b-9d47-c7dc3f66d93e",
+            "id": "Victor Hugo",
             "group": 6,
             "country": "Francia",
             "birth_year": "1802",
@@ -1181,37 +1128,37 @@
             "image": "Sagan.png",
             "audio": "tenquita.mp3",
             "story_name": "La torre de las ratas",
+            "story_id": "0e142258-783a-47e8-9b05-a3d784d9b8a9",
             "linked_authors": 15
         },
         {
             "id": "Rubén Darío",
-            "uuid": "b51b55c4-c5aa-43fa-b393-a3996137deb3",
             "group": 38,
             "country": "Nicaragua",
             "birth_year": "1867",
             "death_year": "1916",
-            "genre": "Desconocido",
+            "genre": "Unknown",
             "image": "Sagan.png",
             "audio": "tenquita.mp3",
             "story_name": "La muerte de Salomé",
+            "story_id": "08ccbd1c-87bf-4c36-9c09-c509222e4cf5",
             "linked_authors": 45
         },
         {
             "id": "Felisberto Hernández",
-            "uuid": "c76f8024-fa25-4dfe-9712-d1913b955938",
             "group": 3,
             "country": "Uruguay",
             "birth_year": "1902",
             "death_year": "1963",
-            "genre": "Desconocido",
+            "genre": "Unknown",
             "image": "Sagan.png",
             "audio": "tenquita.mp3",
             "story_name": "Elsa",
+            "story_id": "13b0dec7-ab98-443b-8fd6-9167796aab2f",
             "linked_authors": 11
         },
         {
             "id": "Shirley Jackson",
-            "uuid": "34049f3a-88a8-4a56-96d5-ad0854b784a2",
             "group": 2,
             "country": "Estados Unidos",
             "birth_year": "1916",
@@ -1220,11 +1167,11 @@
             "image": "Sagan.png",
             "audio": "tenquita.mp3",
             "story_name": "Recibí carta de Jimmy",
+            "story_id": "14e806d9-2836-463c-9d91-8425ea6e80ec",
             "linked_authors": 3
         },
         {
             "id": "Francisco Pi y Margall",
-            "uuid": "5aaef4a7-bd84-4aca-93aa-bc3e6b65bf1f",
             "group": 1,
             "country": "España",
             "birth_year": "1824",
@@ -1233,11 +1180,11 @@
             "image": "Sagan.png",
             "audio": "tenquita.mp3",
             "story_name": "El hurto",
+            "story_id": "156042f0-0c47-42d0-ba29-578a8073975f",
             "linked_authors": 1
         },
         {
-            "id": "Ryunosuke Akutagawa",
-            "uuid": "7e50a710-f1c0-4f1d-abf7-fccd7ab21a4c",
+            "id": "Ryūnosuke Akutagawa",
             "group": 34,
             "country": "Japon",
             "birth_year": "1892",
@@ -1246,24 +1193,24 @@
             "image": "Sagan.png",
             "audio": "tenquita.mp3",
             "story_name": "Maestro",
+            "story_id": "13092cc5-c925-4af2-a333-0e31f8c92a22",
             "linked_authors": 3
         },
         {
             "id": "Marcel Schwob",
-            "uuid": "6c3cde8d-4f3d-404e-8aa3-ba53eae50c35",
             "group": 6,
             "country": "Francia",
             "birth_year": "1867",
             "death_year": "1905",
-            "genre": "Desconocido",
+            "genre": "Unknown",
             "image": "Sagan.png",
             "audio": "tenquita.mp3",
             "story_name": "Pocahontas: Princesa",
+            "story_id": "15cba078-538d-448c-afc1-e389ea15be97",
             "linked_authors": 5
         },
         {
             "id": "Rubem Fonseca",
-            "uuid": "83d7bfcf-849b-4165-83ee-a6cd185f6e68",
             "group": 15,
             "country": "Brasil",
             "birth_year": "1925",
@@ -1272,24 +1219,11 @@
             "image": "Sagan.png",
             "audio": "tenquita.mp3",
             "story_name": "Paseo nocturno",
+            "story_id": "1675870e-d0b9-45a6-8b4a-8ac7fd683c3d",
             "linked_authors": 1
         },
         {
-            "id": "Rafael Barrett",
-            "uuid": "b63ef0e8-c027-4b29-bbc8-6424563266da",
-            "group": 1,
-            "country": "España",
-            "birth_year": "1876",
-            "death_year": "1910",
-            "genre": "Romanticismo",
-            "image": "Sagan.png",
-            "audio": "tenquita.mp3",
-            "story_name": "La muneca",
-            "linked_authors": 2
-        },
-        {
             "id": "Dashiell Hammett",
-            "uuid": "19e65a76-58eb-452b-841d-a6b611783922",
             "group": 2,
             "country": "Estados Unidos",
             "birth_year": "1894",
@@ -1298,11 +1232,11 @@
             "image": "Sagan.png",
             "audio": "tenquita.mp3",
             "story_name": "Otro crimen perfecto",
+            "story_id": "1129fc59-a6e4-4ce7-8121-f6b3120665be",
             "linked_authors": 3
         },
         {
             "id": "Carlos María Gutiérrez",
-            "uuid": "d933c273-9d11-464f-a96e-57751bb9ed3e",
             "group": 3,
             "country": "Uruguay",
             "birth_year": "1926",
@@ -1311,11 +1245,11 @@
             "image": "Sagan.png",
             "audio": "tenquita.mp3",
             "story_name": "Hermanos argentinos",
+            "story_id": "12aefdce-f853-4050-ae6d-81a5eeeb7724",
             "linked_authors": 8
         },
         {
             "id": "Ciro Alegría",
-            "uuid": "343d4462-78aa-435a-a1a4-fe67f7b4fd90",
             "group": 22,
             "country": "Peru",
             "birth_year": "1909",
@@ -1324,50 +1258,50 @@
             "image": "Sagan.png",
             "audio": "tenquita.mp3",
             "story_name": "De cómo repartió el diablo los males por el mundo",
+            "story_id": "1532fd21-aaa3-49d6-acfb-571f8b1f15f1",
             "linked_authors": 9
         },
         {
             "id": "Dino Buzzati",
-            "uuid": "52c2ef31-7803-44b7-a119-131aeeac6ffd",
             "group": 9,
             "country": "Italia",
             "birth_year": "1906",
             "death_year": "1972",
-            "genre": "Desconocido",
+            "genre": "Unknown",
             "image": "Sagan.png",
             "audio": "tenquita.mp3",
             "story_name": "Los reciarios",
+            "story_id": "169ef2f0-23e1-4142-a1fe-be16d2f89d10",
             "linked_authors": 3
         },
         {
             "id": " Azorín",
-            "uuid": "fd7df0ae-d9b5-4e2e-ac1f-10acd0723e2c",
             "group": 1,
             "country": "España",
             "birth_year": "1873",
             "death_year": "1967",
-            "genre": "Desconocido",
+            "genre": "Unknown",
             "image": "Sagan.png",
             "audio": "tenquita.mp3",
             "story_name": "Una civilización que se acaba",
+            "story_id": "10a8a50e-fc14-4bdc-bdd4-edecc259c98e",
             "linked_authors": 1
         },
         {
             "id": "Edgar Allan Poe",
-            "uuid": "56957172-d95e-4daa-841b-769b693b9441",
             "group": 2,
             "country": "Estados Unidos",
             "birth_year": "1809",
             "death_year": "1849",
-            "genre": "Desconocido",
+            "genre": "Unknown",
             "image": "poe.png",
             "audio": "tenquita.mp3",
             "story_name": "Silencio",
+            "story_id": "12a9c6d0-d1fe-4088-a18e-1cce283cf789",
             "linked_authors": 53
         },
         {
             "id": "Patricia Highsmith",
-            "uuid": "e773d8a3-cade-4cd5-a99c-6a3fb3c29029",
             "group": 2,
             "country": "Estados Unidos",
             "birth_year": "1921",
@@ -1376,11 +1310,11 @@
             "image": "Sagan.png",
             "audio": "tenquita.mp3",
             "story_name": "La artista",
+            "story_id": "101223b2-9bbb-4171-a368-50afed5c0dc2",
             "linked_authors": 3
         },
         {
             "id": "Katherine Mansfield",
-            "uuid": "36d8e1f8-825b-48ca-b7eb-557abdec8bbf",
             "group": 40,
             "country": "Nueva Zelanda",
             "birth_year": "1888",
@@ -1389,24 +1323,24 @@
             "image": "Sagan.png",
             "audio": "tenquita.mp3",
             "story_name": "El barón",
+            "story_id": "155bfc02-aaa1-42c0-b2a0-3bf55d68afbc",
             "linked_authors": 1
         },
         {
             "id": "John O'Hara",
-            "uuid": "6066f548-3428-42f5-933d-bdb72061b41e",
             "group": 2,
             "country": "Estados Unidos",
             "birth_year": "1905",
             "death_year": "1970",
-            "genre": "Desconocido",
+            "genre": "Unknown",
             "image": "Sagan.png",
             "audio": "tenquita.mp3",
             "story_name": "Demasiado joven",
+            "story_id": "0fbedcf9-1a1a-4d75-992e-880f114205af",
             "linked_authors": 1
         },
         {
             "id": "Ernest Hemingway",
-            "uuid": "1bf09646-5b88-4a7f-bd73-b1d84067e4d6",
             "group": 2,
             "country": "Estados Unidos",
             "birth_year": "1899",
@@ -1415,24 +1349,11 @@
             "image": "Sagan.png",
             "audio": "tenquita.mp3",
             "story_name": "El viejo en el puente",
+            "story_id": "1326ec82-7bad-4f26-a721-bdd11144bd5e",
             "linked_authors": 18
         },
         {
-            "id": "Manuel Rueda",
-            "uuid": "09feb7f2-774a-4935-801a-8093f2f9bcf6",
-            "group": 36,
-            "country": "Republica Dominicana",
-            "birth_year": "1921",
-            "death_year": "1999",
-            "genre": "Desconocido",
-            "image": "Sagan.png",
-            "audio": "tenquita.mp3",
-            "story_name": "Círculo de los suenos",
-            "linked_authors": 1
-        },
-        {
             "id": "Georg Christoph Lichtenberg",
-            "uuid": "6fa5a15a-c061-4d12-a72d-75c907d8af3a",
             "group": 23,
             "country": "Alemania",
             "birth_year": "1742",
@@ -1441,37 +1362,37 @@
             "image": "Sagan.png",
             "audio": "tenquita.mp3",
             "story_name": "La nota",
+            "story_id": "13866871-7ad7-4378-9547-e01e8214d3b0",
             "linked_authors": 1
         },
         {
-            "id": "Arthur Co Doyle",
-            "uuid": "6a1cc04e-dace-4b1e-a72b-dcda7ea9b976",
+            "id": "Arthur Conan Doyle",
             "group": 41,
             "country": "Escocia",
             "birth_year": "1859",
             "death_year": "1930",
-            "genre": "Desconocido",
+            "genre": "Unknown",
             "image": "Sagan.png",
             "audio": "tenquita.mp3",
             "story_name": "La cabeza del perro",
+            "story_id": "2073c136-ed9e-4676-afd2-cdb7d7b460c0",
             "linked_authors": 2
         },
         {
             "id": "Pedro Gómez Valderrama",
-            "uuid": "df6ce08f-422c-419e-a24e-17179c02e07a",
             "group": 21,
             "country": "Colombia",
             "birth_year": "1923",
             "death_year": "1992",
-            "genre": "Desconocido",
+            "genre": "Unknown",
             "image": "Sagan.png",
             "audio": "tenquita.mp3",
             "story_name": "El tapiz del virrey",
+            "story_id": "1c010bac-43ce-438b-97d1-31a671a0eb42",
             "linked_authors": 1
         },
         {
             "id": "João Guimarães Rosa",
-            "uuid": "9a1fb899-065d-4e1f-97f6-bce9feb97eed",
             "group": 15,
             "country": "Brasil",
             "birth_year": "1908",
@@ -1480,76 +1401,76 @@
             "image": "Sagan.png",
             "audio": "tenquita.mp3",
             "story_name": "Cinta verde en el cabello",
+            "story_id": "211577c2-303f-4a9b-8a45-aeb4848edf55",
             "linked_authors": 1
         },
         {
             "id": "Virgilio Díaz Grullón",
-            "uuid": "fa299ff5-2b04-4f6b-b85e-08e20643fa95",
             "group": 36,
             "country": "Republica Dominicana",
             "birth_year": "1924",
             "death_year": "2001",
-            "genre": "Desconocido",
+            "genre": "Unknown",
             "image": "Sagan.png",
             "audio": "tenquita.mp3",
             "story_name": "Caín",
+            "story_id": "20d094b3-3aff-4e3f-9e4d-c9591a99e6a9",
             "linked_authors": 1
         },
         {
             "id": "Silvina Ocampo",
-            "uuid": "29eb73d6-2426-4d93-9c61-20751a4864e2",
             "group": 7,
             "country": "Argentina",
             "birth_year": "1913",
             "death_year": "1993",
-            "genre": "Desconocido",
+            "genre": "Unknown",
             "image": "Sagan.png",
             "audio": "tenquita.mp3",
             "story_name": "El vendedor de estatuas",
+            "story_id": "19501da8-cf94-4546-a2f6-ddfcacc52f16",
             "linked_authors": 7
         },
         {
             "id": "Bertolt Brecht",
-            "uuid": "8559a707-938b-41e3-8013-2a0d479b984c",
             "group": 23,
             "country": "Alemania",
             "birth_year": "1898",
             "death_year": "1956",
-            "genre": "Desconocido",
+            "genre": "Unknown",
             "image": "Sagan.png",
             "audio": "tenquita.mp3",
             "story_name": "Leyenda",
+            "story_id": "1abc31ae-96d5-4d24-b003-3e20349725cc",
             "linked_authors": 2
         },
         {
             "id": "Juan Ramón Jiménez",
-            "uuid": "f5eac1e6-5362-4339-b99b-93c8193cb3ef",
             "group": 1,
             "country": "España",
             "birth_year": "1881",
             "death_year": "1958",
-            "genre": "Desconocido",
+            "genre": "Unknown",
             "image": "Sagan.png",
             "audio": "tenquita.mp3",
             "story_name": "La violetilla",
+            "story_id": "191757b5-644c-4086-b438-bbc5e9a9cf43",
             "linked_authors": 12
         },
         {
             "id": "Graham Greene",
-            "uuid": "303ab9db-24d4-45fe-9902-53a689c65eea",
             "group": 13,
             "country": "Inglaterra",
             "birth_year": "1904",
             "death_year": "1991",
-            "genre": "Desconocido",
+            "genre": "Unknown",
             "image": "Sagan.png",
             "audio": "tenquita.mp3",
             "story_name": "Terrible, cuando piensa uno en ello",
+            "story_id": "20ff7956-bcc3-4469-866d-39519af1705b",
             "linked_authors": 2
         },
         {
             "id": "Pedro Juan Soto",
-            "uuid": "33823a6b-0b7d-4738-b117-93658e3d9385",
             "group": 31,
             "country": "Puerto Rico",
             "birth_year": "1928",
@@ -1558,50 +1479,50 @@
             "image": "Sagan.png",
             "audio": "tenquita.mp3",
             "story_name": "Miniatura VI",
+            "story_id": "1c1eab19-d668-46c2-9e0d-b6084cb4e219",
             "linked_authors": 1
         },
         {
             "id": "Francisco Tario",
-            "uuid": "e2fa5041-8eb3-4648-862b-fa57e0d5dbb5",
             "group": 11,
             "country": "Mexico",
             "birth_year": "1911",
             "death_year": "1977",
-            "genre": "Desconocido",
+            "genre": "Unknown",
             "image": "Sagan.png",
             "audio": "tenquita.mp3",
             "story_name": "La noche del féretro",
+            "story_id": "1bd6f95b-2ee5-4805-b5b3-2f29df5875c1",
             "linked_authors": 1
         },
         {
             "id": "Andrés Rivera",
-            "uuid": "8bc2eb98-0380-451d-8c49-b68ccfe6e171",
             "group": 7,
             "country": "Argentina",
             "birth_year": "1928",
             "death_year": "2016",
-            "genre": "Desconocido",
+            "genre": "Unknown",
             "image": "Sagan.png",
             "audio": "tenquita.mp3",
             "story_name": "Un asesino de Cristo",
+            "story_id": "1ddbb1cf-2d1e-4cef-a742-7ae4bb31e5fe",
             "linked_authors": 1
         },
         {
             "id": " Saki",
-            "uuid": "8498f813-6f9c-4caf-a6ff-1614317c8382",
             "group": 41,
             "country": "Escocia",
             "birth_year": "1870",
             "death_year": "1916",
-            "genre": "Desconocido",
+            "genre": "Unknown",
             "image": "Sagan.png",
             "audio": "tenquita.mp3",
             "story_name": "Clovis y las responsabilidades de los padres",
+            "story_id": "1db899c6-0b2d-42b2-a94f-8a90c6ff33b5",
             "linked_authors": 1
         },
         {
             "id": "James Thurber",
-            "uuid": "5d6d3dd5-ef1c-4ea0-a0e1-51f48ca23072",
             "group": 2,
             "country": "Estados Unidos",
             "birth_year": "1894",
@@ -1610,11 +1531,11 @@
             "image": "Sagan.png",
             "audio": "tenquita.mp3",
             "story_name": "La última flor",
+            "story_id": "27c42623-df6d-4e66-a831-4e4ef987ffa6",
             "linked_authors": 1
         },
         {
             "id": "Ricardo Palma",
-            "uuid": "e41c93e5-0fdf-433d-801a-e7606773b4e4",
             "group": 22,
             "country": "Peru",
             "birth_year": "1833",
@@ -1623,11 +1544,11 @@
             "image": "Sagan.png",
             "audio": "tenquita.mp3",
             "story_name": "¡A nadar, peces!",
+            "story_id": "22c60533-88bc-41f4-90fd-1ace8be57fc6",
             "linked_authors": 3
         },
         {
             "id": "Pablo Palacio",
-            "uuid": "52bd2f22-3507-44fd-8150-f9fd3365d1a3",
             "group": 42,
             "country": "Ecuador",
             "birth_year": "1906",
@@ -1636,11 +1557,11 @@
             "image": "Sagan.png",
             "audio": "tenquita.mp3",
             "story_name": "Revolución",
+            "story_id": "22ab8a7a-5bfb-47d3-b7c1-bdddaf563881",
             "linked_authors": 1
         },
         {
-            "id": "Leopoldo Alas \"Clarín\"",
-            "uuid": "500f2ed3-19b0-4b17-930e-feef605469da",
+            "id": "Leopoldo Alas, Clarín",
             "group": 1,
             "country": "España",
             "birth_year": "1852",
@@ -1649,37 +1570,37 @@
             "image": "Sagan.png",
             "audio": "tenquita.mp3",
             "story_name": "De burguesa a burguesa",
+            "story_id": "23929f32-088a-46bb-89ec-71d43157c5a3",
             "linked_authors": 12
         },
         {
             "id": "Arthur C. Clarke",
-            "uuid": "a635f2b0-0896-4119-8d9a-b9e7dd0a4c0b",
             "group": 13,
             "country": "Inglaterra",
             "birth_year": "1917",
             "death_year": "2008",
-            "genre": "Desconocido",
+            "genre": "Unknown",
             "image": "Sagan.png",
             "audio": "tenquita.mp3",
             "story_name": "El otro tigre",
+            "story_id": "263b7a05-df61-48c2-a26c-297909169c1a",
             "linked_authors": 1
         },
         {
-            "id": "Anatole Francia",
-            "uuid": "57194ca8-6211-4bba-82a2-23f847af83c5",
+            "id": "Anatole France",
             "group": 6,
             "country": "Francia",
             "birth_year": "1844",
             "death_year": "1924",
-            "genre": "Desconocido",
+            "genre": "Unknown",
             "image": "Sagan.png",
             "audio": "tenquita.mp3",
             "story_name": "El Cristo del océano",
+            "story_id": "25d353a9-6576-44ca-b862-c137af013169",
             "linked_authors": 3
         },
         {
             "id": "Rodolfo Walsh",
-            "uuid": "01511e82-92cc-4525-9d9f-8c015d4edd8a",
             "group": 7,
             "country": "Argentina",
             "birth_year": "1927",
@@ -1688,11 +1609,11 @@
             "image": "Sagan.png",
             "audio": "tenquita.mp3",
             "story_name": "Tres portugueses bajo un paraguas",
+            "story_id": "2559ad29-ca7f-494a-839c-3063e2be9e57",
             "linked_authors": 3
         },
         {
             "id": "Pedro Emilio Coll",
-            "uuid": "9c4fc421-662b-4901-932b-2ba33f42315e",
             "group": 26,
             "country": "Venezuela",
             "birth_year": "1872",
@@ -1701,11 +1622,11 @@
             "image": "Sagan.png",
             "audio": "tenquita.mp3",
             "story_name": "El diente roto",
+            "story_id": "2682d239-89a5-4add-8f7c-15d62b455d0d",
             "linked_authors": 12
         },
         {
             "id": "Federico García Lorca",
-            "uuid": "0c191da5-16c3-46f3-97ac-09e06fea0473",
             "group": 1,
             "country": "España",
             "birth_year": "1898",
@@ -1714,89 +1635,63 @@
             "image": "Sagan.png",
             "audio": "tenquita.mp3",
             "story_name": "Amantes asesinados por una perdiz",
+            "story_id": "2713d17e-b8b3-498c-a8b6-eed590542ec1",
             "linked_authors": 22
         },
         {
             "id": " Stendhal",
-            "uuid": "e7617f97-c8b1-4aa5-86a7-04685e2036fb",
             "group": 6,
             "country": "Francia",
             "birth_year": "1783",
             "death_year": "1842",
-            "genre": "Desconocido",
+            "genre": "Unknown",
             "image": "Sagan.png",
             "audio": "tenquita.mp3",
             "story_name": "Philibert Lescale",
+            "story_id": "24ca47a5-c721-40e4-b525-74b6744b0c5b",
             "linked_authors": 1
         },
         {
             "id": "Alexandre (padre) Dumas",
-            "uuid": "232c3ae2-915d-4f78-8f6b-f202a9cbc90c",
             "group": 6,
             "country": "Francia",
             "birth_year": "1802",
             "death_year": "1870",
-            "genre": "Desconocido",
+            "genre": "Unknown",
             "image": "Sagan.png",
             "audio": "tenquita.mp3",
             "story_name": "La bofetada a Charlotte Corday",
+            "story_id": "22bad0d2-ae8f-43c1-a49f-fe9768f3efab",
             "linked_authors": 1
         },
         {
             "id": "José Echegaray",
-            "uuid": "6d64535b-c51a-45bd-b12f-b9dc3a099fc0",
             "group": 1,
             "country": "España",
             "birth_year": "1832",
             "death_year": "1916",
-            "genre": "Desconocido",
+            "genre": "Unknown",
             "image": "Sagan.png",
             "audio": "tenquita.mp3",
             "story_name": "Las dos caretas",
+            "story_id": "21f55145-6cc2-4603-9c87-d0db67a987b1",
             "linked_authors": 5
         },
         {
-            "id": "Edmundo de Amicis",
-            "uuid": "6353e871-84f8-4133-907f-c8060e56e8f4",
-            "group": 9,
-            "country": "Italia",
-            "birth_year": "1846",
-            "death_year": "1908",
-            "genre": "Romanticismo",
-            "image": "Sagan.png",
-            "audio": "tenquita.mp3",
-            "story_name": "El pequeno vigía lombardo",
-            "linked_authors": 1
-        },
-        {
-            "id": "Rafael Dieste",
-            "uuid": "3a13a21e-b6af-4813-ad9d-90d482dc719f",
-            "group": 1,
-            "country": "España",
-            "birth_year": "1899",
-            "death_year": "1981",
-            "genre": "Desconocido",
-            "image": "Sagan.png",
-            "audio": "tenquita.mp3",
-            "story_name": "El nino suicida",
-            "linked_authors": 7
-        },
-        {
-            "id": "Vicente Blasco Ibánez",
-            "uuid": "d75b6192-249c-405c-bc76-2e36ef57f017",
+            "id": "Vicente Blasco Ibáñez",
             "group": 1,
             "country": "España",
             "birth_year": "1867",
             "death_year": "1928",
-            "genre": "Desconocido",
+            "genre": "Unknown",
             "image": "Sagan.png",
             "audio": "tenquita.mp3",
             "story_name": "Sancha",
+            "story_id": "2f635ea4-c51d-4b0f-bf5d-74911a5552a1",
             "linked_authors": 11
         },
         {
             "id": "Tommaso Landolfi",
-            "uuid": "14935e83-2259-4307-a709-0f691cb92455",
             "group": 9,
             "country": "Italia",
             "birth_year": "1908",
@@ -1805,63 +1700,37 @@
             "image": "Sagan.png",
             "audio": "tenquita.mp3",
             "story_name": "El ladrón",
+            "story_id": "2c08b191-62b9-46e8-84e4-364373983408",
             "linked_authors": 6
         },
         {
-            "id": "Stig Dagerman",
-            "uuid": "90ed5cda-84ed-4723-a46a-8600f6a99077",
-            "group": 43,
-            "country": "Suecia",
-            "birth_year": "1923",
-            "death_year": "1954",
-            "genre": "Desconocido",
-            "image": "Sagan.png",
-            "audio": "tenquita.mp3",
-            "story_name": "Matar a un nino",
-            "linked_authors": 1
-        },
-        {
             "id": "Heinrich Böll",
-            "uuid": "19088e4f-7a6e-4ed8-b6ae-ee0b2708dc13",
             "group": 23,
             "country": "Alemania",
             "birth_year": "1917",
             "death_year": "1985",
-            "genre": "Desconocido",
+            "genre": "Unknown",
             "image": "Sagan.png",
             "audio": "tenquita.mp3",
             "story_name": "El reidor",
+            "story_id": "2ee7ffe5-1f43-4a6d-aad3-b2f77b6f64e0",
             "linked_authors": 3
         },
         {
-            "id": "Naguib Mahfuz",
-            "uuid": "578dbc9d-a947-4458-b2c6-bbd64c9e8277",
-            "group": 44,
-            "country": "Egipto",
-            "birth_year": "1911",
-            "death_year": "2006",
-            "genre": "Romanticismo",
-            "image": "Sagan.png",
-            "audio": "tenquita.mp3",
-            "story_name": "El paraíso de los ninos",
-            "linked_authors": 8
-        },
-        {
             "id": "José Edwards",
-            "uuid": "dc754602-3b52-41f9-8c2f-c908ee38ee82",
             "group": 28,
             "country": "Chile",
             "birth_year": "1910",
             "death_year": "1970",
-            "genre": "Desconocido",
+            "genre": "Unknown",
             "image": "Sagan.png",
             "audio": "tenquita.mp3",
             "story_name": "El acto libre",
+            "story_id": "2ebc2acf-8097-40bc-b283-b801fc9559de",
             "linked_authors": 1
         },
         {
             "id": "Juan Emar",
-            "uuid": "746ce93e-a3a1-408e-9d6a-0bfe38254070",
             "group": 28,
             "country": "Chile",
             "birth_year": "1893",
@@ -1870,50 +1739,37 @@
             "image": "Sagan.png",
             "audio": "tenquita.mp3",
             "story_name": "El vicio del alcohol",
+            "story_id": "2f05dbae-ea8b-4330-a13b-caff2176f13e",
             "linked_authors": 3
         },
         {
             "id": "Onelio Jorge Cardoso",
-            "uuid": "df280a99-f522-4a44-80eb-3b9a46560f12",
             "group": 4,
             "country": "Cuba",
             "birth_year": "1914",
             "death_year": "1986",
-            "genre": "Desconocido",
+            "genre": "Unknown",
             "image": "Sagan.png",
             "audio": "tenquita.mp3",
             "story_name": "El cangrejo volador",
+            "story_id": "2ffcfd5e-d93d-4708-b075-f630efa0ebe3",
             "linked_authors": 1
         },
         {
             "id": "Joris-Karl Huysmans",
-            "uuid": "ebbbd9a1-c9cc-44aa-8a3d-8d40d3210b91",
             "group": 6,
             "country": "Francia",
             "birth_year": "1848",
             "death_year": "1907",
-            "genre": "Desconocido",
+            "genre": "Unknown",
             "image": "Sagan.png",
             "audio": "tenquita.mp3",
             "story_name": "Satán",
+            "story_id": "29d40575-58cf-4cdb-a434-e5cbb20ae989",
             "linked_authors": 4
         },
         {
-            "id": "Guy de Maupassant",
-            "uuid": "8e6b6fd6-43d5-4aef-8b2f-5670aa7265be",
-            "group": 6,
-            "country": "Francia",
-            "birth_year": "1850",
-            "death_year": "1893",
-            "genre": "Desconocido",
-            "image": "Sagan.png",
-            "audio": "tenquita.mp3",
-            "story_name": "Suenos",
-            "linked_authors": 5
-        },
-        {
-            "id": "Iván Turgueniev",
-            "uuid": "7ccf1ab9-e8a7-4101-8605-9f7119c9ce78",
+            "id": "Iván Turguénev",
             "group": 12,
             "country": "Rusia",
             "birth_year": "1818",
@@ -1922,63 +1778,63 @@
             "image": "Sagan.png",
             "audio": "tenquita.mp3",
             "story_name": "El monje",
+            "story_id": "2ea2311b-0bf1-4933-8061-7419ba865dac",
             "linked_authors": 4
         },
         {
             "id": " Salarrué",
-            "uuid": "dd2099b3-105e-431c-83b6-7329c7d68b37",
-            "group": 45,
+            "group": 43,
             "country": "El Salvador",
             "birth_year": "1899",
             "death_year": "1975",
-            "genre": "Desconocido",
+            "genre": "Unknown",
             "image": "Sagan.png",
             "audio": "tenquita.mp3",
             "story_name": "El cuento del cuento que contaron",
+            "story_id": "2e392281-9959-49f3-9a90-4e5f2e1d904c",
             "linked_authors": 1
         },
         {
             "id": "Álvaro Mutis",
-            "uuid": "f49b99d0-632c-4282-82ad-50ad1ca1d7ec",
             "group": 21,
             "country": "Colombia",
             "birth_year": "1923",
             "death_year": "2013",
-            "genre": "Desconocido",
+            "genre": "Unknown",
             "image": "Sagan.png",
             "audio": "tenquita.mp3",
             "story_name": "Lámparas de hojalata",
+            "story_id": "2d2e426c-c6fa-4c60-b135-a9c6777913fd",
             "linked_authors": 3
         },
         {
             "id": "Juan Rodolfo Wilcock",
-            "uuid": "f40b1762-abac-4a9c-aa20-fb3e442f0219",
             "group": 7,
             "country": "Argentina",
             "birth_year": "1919",
             "death_year": "1978",
-            "genre": "Desconocido",
+            "genre": "Unknown",
             "image": "Sagan.png",
             "audio": "tenquita.mp3",
             "story_name": "Agrimensor Bene Nio",
+            "story_id": "30d90241-cbdd-4e36-8e6e-316d8027752f",
             "linked_authors": 6
         },
         {
-            "id": "Maeve Bren",
-            "uuid": "0656dc2a-3bfd-414b-90b5-59ff1e49666c",
+            "id": "Maeve Brennan",
             "group": 20,
             "country": "Irlanda",
             "birth_year": "1917",
             "death_year": "1993",
-            "genre": "Desconocido",
+            "genre": "Unknown",
             "image": "Sagan.png",
             "audio": "tenquita.mp3",
             "story_name": "La más lista",
+            "story_id": "2c577828-f3a5-48d1-9b38-3962ac69096f",
             "linked_authors": 1
         },
         {
             "id": "Camilo José Cela",
-            "uuid": "00ca9ffc-da8a-4e51-92a5-1081f48d1d5e",
             "group": 1,
             "country": "España",
             "birth_year": "1916",
@@ -1987,37 +1843,37 @@
             "image": "Sagan.png",
             "audio": "tenquita.mp3",
             "story_name": "Olor a cebolla",
+            "story_id": "2bf02c95-447d-45e4-bfdf-8ae94eb06323",
             "linked_authors": 12
         },
         {
             "id": "Macedonio Fernández",
-            "uuid": "a0bd735f-0e5a-420e-90d8-d011e096f011",
             "group": 7,
             "country": "Argentina",
             "birth_year": "1874",
             "death_year": "1952",
-            "genre": "Desconocido",
+            "genre": "Unknown",
             "image": "Sagan.png",
             "audio": "tenquita.mp3",
             "story_name": "Un paciente en disminución",
+            "story_id": "2e70af10-f3ff-401d-8c18-2dbc7b8f3b64",
             "linked_authors": 5
         },
         {
             "id": "Rubén Bareiro Saguier",
-            "uuid": "2e1e141f-ec07-4d29-a864-3cb90fb15161",
-            "group": 46,
+            "group": 44,
             "country": "Paraguay",
             "birth_year": "1930",
             "death_year": "2014",
-            "genre": "Desconocido",
+            "genre": "Unknown",
             "image": "Sagan.png",
             "audio": "tenquita.mp3",
             "story_name": "Ojo por diente",
+            "story_id": "2bbec64a-9f99-4f08-9d68-02cd14c0adde",
             "linked_authors": 3
         },
         {
             "id": "Teresa Wilms Montt",
-            "uuid": "affd8a1e-2543-4987-a1a5-dd15a00b53aa",
             "group": 28,
             "country": "Chile",
             "birth_year": "1893",
@@ -2026,12 +1882,12 @@
             "image": "Sagan.png",
             "audio": "tenquita.mp3",
             "story_name": "Mahmú",
+            "story_id": "2a8e2e20-f786-4f8e-a8cc-93a254c06af8",
             "linked_authors": 1
         },
         {
             "id": "Heinrich von Kleist",
-            "uuid": "cda98241-cbc9-482c-b36e-39e7ee928492",
-            "group": 47,
+            "group": 45,
             "country": "Prusia",
             "birth_year": "1777",
             "death_year": "1811",
@@ -2039,63 +1895,37 @@
             "image": "Sagan.png",
             "audio": "tenquita.mp3",
             "story_name": "La mendiga de Locarno",
+            "story_id": "293442de-0c64-4c16-9861-59d9105da49f",
             "linked_authors": 1
         },
         {
             "id": "Juan Valera",
-            "uuid": "9d04bfc6-8971-48f3-86c2-dd1157795031",
             "group": 1,
             "country": "España",
             "birth_year": "1824",
             "death_year": "1905",
-            "genre": "Desconocido",
+            "genre": "Unknown",
             "image": "Sagan.png",
             "audio": "tenquita.mp3",
             "story_name": "El pescadorcito Urashima",
+            "story_id": "29b2a6ae-25e6-4d6d-92ad-8bc0a97f5c65",
             "linked_authors": 11
         },
         {
-            "id": "Donald Barthelme",
-            "uuid": "e3ef6fa5-e864-4ebe-963d-fb93f0f7999d",
-            "group": 2,
-            "country": "Estados Unidos",
-            "birth_year": "1931",
-            "death_year": "1989",
-            "genre": "Ficción",
-            "image": "Sagan.png",
-            "audio": "tenquita.mp3",
-            "story_name": "La nina",
-            "linked_authors": 1
-        },
-        {
             "id": "Arkadi Avérchenko",
-            "uuid": "8e06f618-8426-4f1b-9523-985c05dc5044",
             "group": 12,
             "country": "Rusia",
             "birth_year": "1881",
             "death_year": "1925",
-            "genre": "Desconocido",
+            "genre": "Unknown",
             "image": "Sagan.png",
             "audio": "tenquita.mp3",
             "story_name": "Un asunto vulgar",
-            "linked_authors": 1
-        },
-        {
-            "id": "Manuel González Zeledón",
-            "uuid": "d89ecec1-7e55-43fa-9c4e-86bb0b6edc66",
-            "group": 48,
-            "country": "Costa Rica",
-            "birth_year": "1864",
-            "death_year": "1936",
-            "genre": "Desconocido",
-            "image": "Sagan.png",
-            "audio": "tenquita.mp3",
-            "story_name": "La muneca del Nino Dios",
+            "story_id": "32360aa3-256f-4c7b-bc4e-0bd358a5a9c3",
             "linked_authors": 1
         },
         {
             "id": "Luis Taboada",
-            "uuid": "9bedf273-a226-409a-86d4-349a824c4496",
             "group": 1,
             "country": "España",
             "birth_year": "1848",
@@ -2104,11 +1934,11 @@
             "image": "Sagan.png",
             "audio": "tenquita.mp3",
             "story_name": "El pavo de Navidad o la falta de costumbre",
+            "story_id": "34e7439a-8d46-4c64-8a25-74ad947415b5",
             "linked_authors": 1
         },
         {
             "id": "William Goyen",
-            "uuid": "0f21afb8-fe98-4a06-8909-6bee338b2d37",
             "group": 2,
             "country": "Estados Unidos",
             "birth_year": "1915",
@@ -2117,24 +1947,24 @@
             "image": "Sagan.png",
             "audio": "tenquita.mp3",
             "story_name": "Chicos de campo",
+            "story_id": "340dc35f-9f78-4913-b946-646e05d62c34",
             "linked_authors": 4
         },
         {
             "id": "Ana María Matute",
-            "uuid": "5fe5eba0-9dad-4c42-8af9-247f7e5fed96",
             "group": 1,
             "country": "España",
             "birth_year": "1926",
             "death_year": "2014",
-            "genre": "Desconocido",
+            "genre": "Unknown",
             "image": "Sagan.png",
             "audio": "tenquita.mp3",
             "story_name": "Los relojes",
+            "story_id": "34ccf75f-1f57-4f99-af4a-ab418f89f4c2",
             "linked_authors": 4
         },
         {
             "id": "Miguel Delibes",
-            "uuid": "90a68df1-b13a-4687-9225-05374b03deae",
             "group": 1,
             "country": "España",
             "birth_year": "1920",
@@ -2143,11 +1973,11 @@
             "image": "Sagan.png",
             "audio": "tenquita.mp3",
             "story_name": "Navidad sin ambiente",
+            "story_id": "3212b7ff-2de5-4123-8701-d2a860094a9c",
             "linked_authors": 8
         },
         {
             "id": "José Zorrilla",
-            "uuid": "1c0007d6-e15f-474e-928d-cf8a865c35e4",
             "group": 1,
             "country": "España",
             "birth_year": "1817",
@@ -2156,24 +1986,24 @@
             "image": "Sagan.png",
             "audio": "tenquita.mp3",
             "story_name": "¿Y aquel entierro que pasa?",
+            "story_id": "3bf0a0a3-4460-40d4-83ab-4b415d5dc7f5",
             "linked_authors": 12
         },
         {
             "id": "Alphonse Daudet",
-            "uuid": "d14538a1-c39e-4004-90d3-df0248782f8f",
             "group": 6,
             "country": "Francia",
             "birth_year": "1840",
             "death_year": "1897",
-            "genre": "Desconocido",
+            "genre": "Unknown",
             "image": "Sagan.png",
             "audio": "tenquita.mp3",
             "story_name": "Nostalgia del cuartel",
+            "story_id": "3d18fc8b-0f33-4630-b0a0-e7a4425118ba",
             "linked_authors": 1
         },
         {
             "id": "Miguel Mihura",
-            "uuid": "b88cf516-f3d8-4aa8-b4b7-21b30159d6f3",
             "group": 1,
             "country": "España",
             "birth_year": "1905",
@@ -2182,11 +2012,11 @@
             "image": "Sagan.png",
             "audio": "tenquita.mp3",
             "story_name": "Verdaderamente, con una madre así, tan buena, no se puede ser Lucifer",
+            "story_id": "40df61f0-5984-4074-830b-55e8af3e1a90",
             "linked_authors": 1
         },
         {
             "id": "Pierre Loti",
-            "uuid": "649eedee-d337-4175-8764-4478b00710dd",
             "group": 6,
             "country": "Francia",
             "birth_year": "1850",
@@ -2195,11 +2025,11 @@
             "image": "Sagan.png",
             "audio": "tenquita.mp3",
             "story_name": "La aflicción de un viejo presidiario",
+            "story_id": "3ae5971a-74c5-4e29-af7b-673da10fe16b",
             "linked_authors": 1
         },
         {
             "id": "Jean-Paul Sartre",
-            "uuid": "4e6209cb-87a5-476e-a642-a338769d90e2",
             "group": 6,
             "country": "Francia",
             "birth_year": "1905",
@@ -2208,37 +2038,37 @@
             "image": "Sagan.png",
             "audio": "tenquita.mp3",
             "story_name": "Confusión",
+            "story_id": "4102b1c6-0990-4922-8010-5b9123d97058",
             "linked_authors": 4
         },
         {
             "id": "Costas Axelos",
-            "uuid": "3b3f92ff-1dfe-4276-b58d-594d200bc8da",
             "group": 5,
             "country": "Grecia",
             "birth_year": "1924",
             "death_year": "2010",
-            "genre": "Desconocido",
+            "genre": "Unknown",
             "image": "Sagan.png",
             "audio": "tenquita.mp3",
             "story_name": "El ser",
+            "story_id": "3ead8a55-60a6-4b98-97a2-93d723b3e394",
             "linked_authors": 1
         },
         {
             "id": "Octavio Paz",
-            "uuid": "dbe7e36c-0594-4454-9981-7e00ae9e526c",
             "group": 11,
             "country": "Mexico",
             "birth_year": "1914",
             "death_year": "1998",
-            "genre": "Desconocido",
+            "genre": "Unknown",
             "image": "Sagan.png",
             "audio": "tenquita.mp3",
             "story_name": "Maravillas de la voluntad",
+            "story_id": "3d4873fb-befc-4ca8-9dfa-11c200c2d736",
             "linked_authors": 27
         },
         {
             "id": "Oscar Wilde",
-            "uuid": "ece9cf4e-5a07-4fc0-9c21-7869e0e98804",
             "group": 20,
             "country": "Irlanda",
             "birth_year": "1854",
@@ -2247,115 +2077,89 @@
             "image": "Sagan.png",
             "audio": "tenquita.mp3",
             "story_name": "La Casa del Juicio",
+            "story_id": "3a1e071c-444e-47ad-a6da-4906ddf1e45f",
             "linked_authors": 9
         },
         {
-            "id": "Isaac Babel",
-            "uuid": "681d7de1-9c1a-4927-89c3-1490c5e120fd",
+            "id": "Isaak Bábel",
             "group": 12,
             "country": "Rusia",
             "birth_year": "1894",
             "death_year": "1940",
-            "genre": "Desconocido",
+            "genre": "Unknown",
             "image": "Sagan.png",
             "audio": "tenquita.mp3",
             "story_name": "En la estación ferroviaria",
+            "story_id": "3e7e7324-765a-4f17-83b0-c56fc850237d",
             "linked_authors": 4
         },
         {
             "id": " Colette",
-            "uuid": "f3358832-154c-4744-9eb2-bedbb1124d27",
             "group": 6,
             "country": "Francia",
             "birth_year": "1873",
             "death_year": "1954",
-            "genre": "Desconocido",
+            "genre": "Unknown",
             "image": "Sagan.png",
             "audio": "tenquita.mp3",
             "story_name": "Noche blanca",
+            "story_id": "40c74da6-8c0e-43d9-b2b3-429cb82410b9",
             "linked_authors": 1
         },
         {
-            "id": "Gregorio López y Fuentes",
-            "uuid": "6aaffbf4-36e6-44f8-ab3f-a2bae083f435",
-            "group": 11,
-            "country": "Mexico",
-            "birth_year": "1897",
-            "death_year": "1966",
-            "genre": "Romanticismo",
-            "image": "Sagan.png",
-            "audio": "tenquita.mp3",
-            "story_name": "Noble campana",
-            "linked_authors": 2
-        },
-        {
             "id": "Sherwood Anderson",
-            "uuid": "938a610d-1680-4f18-b8c2-eeebaf9d719e",
             "group": 2,
             "country": "Estados Unidos",
             "birth_year": "1876",
             "death_year": "1941",
-            "genre": "Desconocido",
+            "genre": "Unknown",
             "image": "Sagan.png",
             "audio": "tenquita.mp3",
             "story_name": "El libro de lo grotesco",
+            "story_id": "413429c3-d895-4913-8f5f-457a4e673b9d",
             "linked_authors": 1
         },
         {
             "id": "Vicente Huidobro",
-            "uuid": "3301ae0a-b90a-47df-9830-c7ca35fcb041",
             "group": 28,
             "country": "Chile",
             "birth_year": "1893",
             "death_year": "1948",
-            "genre": "Desconocido",
+            "genre": "Unknown",
             "image": "Sagan.png",
             "audio": "tenquita.mp3",
             "story_name": "La hija del guardaagujas",
+            "story_id": "442ce9d1-39a5-46de-af88-a73c0cdd6e74",
             "linked_authors": 20
         },
         {
-            "id": "O. Henry",
-            "uuid": "affec228-b504-48a5-8b30-369efaf0e836",
-            "group": 2,
-            "country": "Estados Unidos",
-            "birth_year": "1862",
-            "death_year": "1910",
-            "genre": "Desconocido",
-            "image": "Sagan.png",
-            "audio": "tenquita.mp3",
-            "story_name": "Una historia extrana",
-            "linked_authors": 9
-        },
-        {
             "id": "Selma Lagerlöf",
-            "uuid": "566d6f3f-6905-494f-ac91-080b2b5d55f5",
-            "group": 43,
+            "group": 46,
             "country": "Suecia",
             "birth_year": "1858",
             "death_year": "1940",
-            "genre": "Desconocido",
+            "genre": "Unknown",
             "image": "Sagan.png",
             "audio": "tenquita.mp3",
             "story_name": "En Nazaret",
+            "story_id": "42820200-53dc-4637-8567-1942ed0c6e5a",
             "linked_authors": 8
         },
         {
             "id": "José Donoso",
-            "uuid": "4813e297-e0bd-43ae-bae4-a7d388bdd3e2",
             "group": 28,
             "country": "Chile",
             "birth_year": "1924",
             "death_year": "1997",
-            "genre": "Desconocido",
+            "genre": "Unknown",
             "image": "Sagan.png",
             "audio": "tenquita.mp3",
             "story_name": "La invención de Ramón",
+            "story_id": "4369fbd2-6d84-4596-a4a7-ec9fea0ca8c8",
             "linked_authors": 3
         },
         {
             "id": "Leopoldo Lugones",
-            "uuid": "254c2c53-8c62-44c8-b632-e62c3bb11f6f",
             "group": 7,
             "country": "Argentina",
             "birth_year": "1874",
@@ -2364,11 +2168,11 @@
             "image": "Sagan.png",
             "audio": "tenquita.mp3",
             "story_name": "¿Una mariposa?",
+            "story_id": "48285317-3ed3-4402-9716-e0bcbb1845cb",
             "linked_authors": 2
         },
         {
             "id": "F. Scott Fitzgerald",
-            "uuid": "2837f2e5-f21a-4e85-a192-a95fd5e42b16",
             "group": 2,
             "country": "Estados Unidos",
             "birth_year": "1896",
@@ -2377,11 +2181,11 @@
             "image": "Sagan.png",
             "audio": "tenquita.mp3",
             "story_name": "La década perdida",
+            "story_id": "43af239d-c8ef-4bae-ae94-401ef2a92aaf",
             "linked_authors": 14
         },
         {
             "id": "Vladimir Nabokov",
-            "uuid": "2d625620-e8b9-4573-8cf1-26a0663b44d5",
             "group": 12,
             "country": "Rusia",
             "birth_year": "1899",
@@ -2390,24 +2194,24 @@
             "image": "Sagan.png",
             "audio": "tenquita.mp3",
             "story_name": "Solo el azar logra el crimen perfecto",
+            "story_id": "43e1692c-77a0-4593-9dfb-fa5a7ec28b68",
             "linked_authors": 2
         },
         {
             "id": "Félix Pita Rodríguez",
-            "uuid": "0d89595c-ea13-496c-ad8b-884541318588",
             "group": 4,
             "country": "Cuba",
             "birth_year": "1909",
             "death_year": "1990",
-            "genre": "Desconocido",
+            "genre": "Unknown",
             "image": "Sagan.png",
             "audio": "tenquita.mp3",
             "story_name": "La pipa de cerezo",
+            "story_id": "44302e48-cf14-4bf0-813a-94789b8fd6b4",
             "linked_authors": 4
         },
         {
-            "id": "Ramón del Valle Inclán",
-            "uuid": "55892bd0-5c40-4bd6-a247-ea7249967fa9",
+            "id": "Ramón María del Valle-Inclán",
             "group": 1,
             "country": "España",
             "birth_year": "1866",
@@ -2416,37 +2220,37 @@
             "image": "Sagan.png",
             "audio": "tenquita.mp3",
             "story_name": "El miedo",
+            "story_id": "453711e4-458d-4c3c-8177-31261b105f8f",
             "linked_authors": 15
         },
         {
             "id": "Clark Ashton Smith",
-            "uuid": "165c095c-9f7f-47b5-86f4-d168e753526d",
             "group": 2,
             "country": "Estados Unidos",
             "birth_year": "1893",
             "death_year": "1961",
-            "genre": "Desconocido",
+            "genre": "Unknown",
             "image": "Sagan.png",
             "audio": "tenquita.mp3",
             "story_name": "Las estatuas de la noche",
+            "story_id": "43884892-7c75-49ba-a79d-3c71403c53e4",
             "linked_authors": 4
         },
         {
             "id": "Charles Perrault",
-            "uuid": "eb2f5b5c-eee3-49a1-a607-11ca5e7ed1fa",
             "group": 6,
             "country": "Francia",
             "birth_year": "1628",
             "death_year": "1703",
-            "genre": "Desconocido",
+            "genre": "Unknown",
             "image": "Sagan.png",
             "audio": "tenquita.mp3",
             "story_name": "Los deseos ridículos",
+            "story_id": "47b9c391-91a9-4230-9947-4cd4b170f157",
             "linked_authors": 5
         },
         {
             "id": "Santiago Dabove",
-            "uuid": "13858f4f-de35-4b3c-b4a7-3ce51c8b9518",
             "group": 7,
             "country": "Argentina",
             "birth_year": "1889",
@@ -2455,24 +2259,24 @@
             "image": "Sagan.png",
             "audio": "tenquita.mp3",
             "story_name": "El tren",
+            "story_id": "46e6ee75-90c6-4371-b7d4-f0dbfe3de86c",
             "linked_authors": 2
         },
         {
             "id": "Emilio Díaz Valcárcel",
-            "uuid": "dd5afffb-5714-44bb-b391-f301f9885ec3",
             "group": 31,
             "country": "Puerto Rico",
             "birth_year": "1929",
             "death_year": "2015",
-            "genre": "Desconocido",
+            "genre": "Unknown",
             "image": "Sagan.png",
             "audio": "tenquita.mp3",
             "story_name": "La muchacha del tiempo",
+            "story_id": "4cec78f4-125b-45fa-b5ed-ac6fda8eda65",
             "linked_authors": 1
         },
         {
             "id": "Washington Irving",
-            "uuid": "60d3a568-c00d-479f-992c-76d2a8ec2764",
             "group": 2,
             "country": "Estados Unidos",
             "birth_year": "1783",
@@ -2481,76 +2285,76 @@
             "image": "Sagan.png",
             "audio": "tenquita.mp3",
             "story_name": "El Palacio de la Alhambra",
+            "story_id": "4b6e95a7-4b03-42f1-98e5-0c99b31fe78c",
             "linked_authors": 5
         },
         {
             "id": "Ignacio Aldecoa",
-            "uuid": "94beb689-69fd-48e7-b9f8-c124ebd7127b",
             "group": 1,
             "country": "España",
             "birth_year": "1925",
             "death_year": "1969",
-            "genre": "Desconocido",
+            "genre": "Unknown",
             "image": "Sagan.png",
             "audio": "tenquita.mp3",
             "story_name": "Un cuento de reyes",
+            "story_id": "4a9fa87c-82e0-48c6-95db-1e6e9a24001d",
             "linked_authors": 6
         },
         {
             "id": "María Luisa Bombal",
-            "uuid": "2e052fc6-631f-4aa3-9a82-a878c99ca6dc",
             "group": 28,
             "country": "Chile",
             "birth_year": "1910",
             "death_year": "1980",
-            "genre": "Desconocido",
+            "genre": "Unknown",
             "image": "Sagan.png",
             "audio": "tenquita.mp3",
             "story_name": "Lo secreto",
+            "story_id": "4cd7658f-7ad1-49ee-b753-ae8baca40639",
             "linked_authors": 21
         },
         {
             "id": "Salvador Garmendia",
-            "uuid": "21508065-f9a0-4142-9489-5ecd451ac64a",
             "group": 26,
             "country": "Venezuela",
             "birth_year": "1928",
             "death_year": "2001",
-            "genre": "Desconocido",
+            "genre": "Unknown",
             "image": "Sagan.png",
             "audio": "tenquita.mp3",
             "story_name": "Asunto de familia",
+            "story_id": "50521929-0302-47c4-acf9-c1ca4e420162",
             "linked_authors": 7
         },
         {
             "id": "José Lezama Lima",
-            "uuid": "79f6e6dd-36ca-41c3-998a-6582b5f8ab00",
             "group": 4,
             "country": "Cuba",
             "birth_year": "1910",
             "death_year": "1976",
-            "genre": "Desconocido",
+            "genre": "Unknown",
             "image": "Sagan.png",
             "audio": "tenquita.mp3",
             "story_name": "Invocación para desorejarse",
+            "story_id": "4a8fb8fe-ba17-425c-bcd6-aa50097dffc0",
             "linked_authors": 22
         },
         {
             "id": "Franco Sacchetti",
-            "uuid": "17e99db5-9958-4443-971d-dcf98e4ecdf0",
             "group": 9,
             "country": "Italia",
             "birth_year": "1335",
             "death_year": "1400",
-            "genre": "Desconocido",
+            "genre": "Unknown",
             "image": "Sagan.png",
             "audio": "tenquita.mp3",
             "story_name": "El parto",
+            "story_id": "527af22c-8778-4a27-9be7-daf7fc846265",
             "linked_authors": 2
         },
         {
             "id": "Alejo Carpentier",
-            "uuid": "43b582ee-bc54-4113-ba91-f0c26e9f28ed",
             "group": 4,
             "country": "Cuba",
             "birth_year": "1904",
@@ -2559,11 +2363,11 @@
             "image": "Sagan.png",
             "audio": "tenquita.mp3",
             "story_name": "El entierro de Henri Christophe",
+            "story_id": "553056d3-a1db-482e-baaf-f2f783e80f53",
             "linked_authors": 11
         },
         {
             "id": "Ramón J. Sender",
-            "uuid": "77913142-3276-4e94-b3e6-0929bb7cf650",
             "group": 1,
             "country": "España",
             "birth_year": "1901",
@@ -2572,89 +2376,63 @@
             "image": "Sagan.png",
             "audio": "tenquita.mp3",
             "story_name": "El guaje",
+            "story_id": "54545c9b-e6c4-4c9a-80ff-d5a665f97f7d",
             "linked_authors": 6
         },
         {
             "id": "Tomás Carrasquilla",
-            "uuid": "0b5d50ab-b8f4-4424-a869-12b05d7b2deb",
             "group": 21,
             "country": "Colombia",
             "birth_year": "1858",
             "death_year": "1940",
-            "genre": "Desconocido",
+            "genre": "Unknown",
             "image": "Sagan.png",
             "audio": "tenquita.mp3",
             "story_name": "La mata",
+            "story_id": "53786878-c142-4dc0-ab7a-ba7d90b333f7",
             "linked_authors": 4
         },
         {
-            "id": "Julio Garmendia",
-            "uuid": "754bdb49-cd24-4a1b-b27c-868756e51aa0",
-            "group": 26,
-            "country": "Venezuela",
-            "birth_year": "1898",
-            "death_year": "1977",
-            "genre": "Paranoia",
-            "image": "Sagan.png",
-            "audio": "tenquita.mp3",
-            "story_name": "El pequeno nazareno",
-            "linked_authors": 16
-        },
-        {
             "id": "Arthur Machen",
-            "uuid": "014c9e21-e246-4f73-b869-8b872b7417bd",
             "group": 13,
             "country": "Inglaterra",
             "birth_year": "1863",
             "death_year": "1947",
-            "genre": "Desconocido",
+            "genre": "Unknown",
             "image": "Sagan.png",
             "audio": "tenquita.mp3",
             "story_name": "Un nuevo Cuento de Navidad",
+            "story_id": "59948a95-7d4c-4076-8067-01f5840d5dba",
             "linked_authors": 15
         },
         {
             "id": "Pär Lagerkvist",
-            "uuid": "30c4d0c9-20a8-42f6-bf2a-de4822127ba3",
-            "group": 43,
+            "group": 46,
             "country": "Suecia",
             "birth_year": "1891",
             "death_year": "1974",
-            "genre": "Desconocido",
+            "genre": "Unknown",
             "image": "Sagan.png",
             "audio": "tenquita.mp3",
             "story_name": "El amor y la muerte",
-            "linked_authors": 1
-        },
-        {
-            "id": "María de Francia",
-            "uuid": "ddc0146f-6c97-42af-8885-cfb3c39727c9",
-            "group": 6,
-            "country": "Francia",
-            "birth_year": "1200",
-            "death_year": "Desconocido",
-            "genre": "Romanticismo",
-            "image": "Sagan.png",
-            "audio": "tenquita.mp3",
-            "story_name": "El ruisenor",
+            "story_id": "602539cb-bfe6-4e10-a972-47aac095ef2a",
             "linked_authors": 1
         },
         {
             "id": "Abelardo Castillo",
-            "uuid": "9cf21db6-3f84-4e1d-baca-3d46488a638f",
             "group": 7,
             "country": "Argentina",
             "birth_year": "1935",
             "death_year": "2017",
-            "genre": "Desconocido",
+            "genre": "Unknown",
             "image": "Sagan.png",
             "audio": "tenquita.mp3",
             "story_name": "Las panteras y el templo",
+            "story_id": "6a110663-5803-45de-b4e4-7e177ddba2ff",
             "linked_authors": 12
         },
         {
             "id": "Philip K. Dick",
-            "uuid": "d2a76dc2-14fd-4100-b641-b089fce53f5e",
             "group": 2,
             "country": "Estados Unidos",
             "birth_year": "1928",
@@ -2663,24 +2441,24 @@
             "image": "Sagan.png",
             "audio": "tenquita.mp3",
             "story_name": "Algunas peculiaridades de los ojos",
+            "story_id": "64e79c18-23d9-4538-8696-f8c602ca5485",
             "linked_authors": 3
         },
         {
-            "id": "Herdo Téllez",
-            "uuid": "a3fcf4e3-c4c9-4dbe-b87a-bf1cb5a339b8",
+            "id": "Hernando Téllez",
             "group": 21,
             "country": "Colombia",
             "birth_year": "1908",
             "death_year": "1966",
-            "genre": "Desconocido",
+            "genre": "Unknown",
             "image": "Sagan.png",
             "audio": "tenquita.mp3",
             "story_name": "Tiempo de verano",
+            "story_id": "6681cf30-609d-4302-846b-82550868c045",
             "linked_authors": 1
         },
         {
             "id": "Nathaniel Hawthorne",
-            "uuid": "01545639-8ba5-4119-900d-a6f0cf08799c",
             "group": 2,
             "country": "Estados Unidos",
             "birth_year": "1804",
@@ -2689,24 +2467,24 @@
             "image": "Sagan.png",
             "audio": "tenquita.mp3",
             "story_name": "Otro",
+            "story_id": "69c37ff4-81eb-4932-86bf-c76d3b01a061",
             "linked_authors": 6
         },
         {
             "id": "Leónidas Andréiev",
-            "uuid": "661b1c79-fd67-475d-9f12-43511ae40e59",
             "group": 12,
             "country": "Rusia",
             "birth_year": "1871",
             "death_year": "1919",
-            "genre": "Desconocido",
+            "genre": "Unknown",
             "image": "Sagan.png",
             "audio": "tenquita.mp3",
             "story_name": "El gigante",
+            "story_id": "668c67b8-af59-4c99-beef-b8b7b879f4b9",
             "linked_authors": 1
         },
         {
             "id": "Thomas Hardy",
-            "uuid": "70f12495-c705-415f-93c4-788c462818a7",
             "group": 13,
             "country": "Inglaterra",
             "birth_year": "1840",
@@ -2715,11 +2493,11 @@
             "image": "Sagan.png",
             "audio": "tenquita.mp3",
             "story_name": "La historia de un hombre supersticioso",
+            "story_id": "67370753-d39f-43e8-91e8-627dafb92b15",
             "linked_authors": 9
         },
         {
-            "id": "Miguel Ángel Espana",
-            "uuid": "1987294c-c776-4fe2-b2b6-22347141eaf6",
+            "id": "Miguel Ángel Asturias",
             "group": 18,
             "country": "Guatemala",
             "birth_year": "1899",
@@ -2728,37 +2506,37 @@
             "image": "Sagan.png",
             "audio": "tenquita.mp3",
             "story_name": "Leyenda del volcán",
+            "story_id": "71fe73aa-d68d-4150-8477-2f592ee8c656",
             "linked_authors": 17
         },
         {
             "id": "Jacinto Benavente",
-            "uuid": "94301475-1366-4aaa-bc65-5692495c983e",
             "group": 1,
             "country": "España",
             "birth_year": "1866",
             "death_year": "1954",
-            "genre": "Desconocido",
+            "genre": "Unknown",
             "image": "Sagan.png",
             "audio": "tenquita.mp3",
             "story_name": "Cuento inmoral",
+            "story_id": "718fd143-e034-44d9-b6d8-1ed297c08e93",
             "linked_authors": 5
         },
         {
             "id": "Emilio S. Belaval",
-            "uuid": "29c653c7-fcbb-47e9-a128-bb60aa508d9e",
             "group": 31,
             "country": "Puerto Rico",
             "birth_year": "1903",
             "death_year": "1972",
-            "genre": "Desconocido",
+            "genre": "Unknown",
             "image": "Sagan.png",
             "audio": "tenquita.mp3",
             "story_name": "Se enciende la lámpara de Aladino",
+            "story_id": "70b29965-acea-4edb-906a-3d9c390d6060",
             "linked_authors": 1
         },
         {
             "id": "Juan Rulfo",
-            "uuid": "4476a87c-3bc7-40c5-9c90-8b500b5f93c6",
             "group": 11,
             "country": "Mexico",
             "birth_year": "1918",
@@ -2767,11 +2545,11 @@
             "image": "rulfo.png",
             "audio": "tenquita.mp3",
             "story_name": "No oyes ladrar a los perros",
+            "story_id": "6cf9801d-e81e-4caf-be8b-df658a3ec3be",
             "linked_authors": 9
         },
         {
             "id": "Kate Chopin",
-            "uuid": "637518ab-b4b7-4805-ad07-11395cdbfdae",
             "group": 2,
             "country": "Estados Unidos",
             "birth_year": "1850",
@@ -2780,11 +2558,11 @@
             "image": "Sagan.png",
             "audio": "tenquita.mp3",
             "story_name": "Historia de una hora",
+            "story_id": "7630d592-38ea-4b74-ad35-6a421cc4e4dc",
             "linked_authors": 1
         },
         {
             "id": "E. L. Doctorow",
-            "uuid": "c9032629-1e61-44f6-93f1-41f555eeb74d",
             "group": 2,
             "country": "Estados Unidos",
             "birth_year": "1931",
@@ -2793,11 +2571,11 @@
             "image": "Sagan.png",
             "audio": "tenquita.mp3",
             "story_name": "La traída de aguas",
+            "story_id": "799e6f2c-5908-433f-90dd-d23c6bbed976",
             "linked_authors": 1
         },
         {
             "id": "Robert Louis Stevenson",
-            "uuid": "f8b783af-18ac-4426-8c28-5666d306ada8",
             "group": 41,
             "country": "Escocia",
             "birth_year": "1850",
@@ -2806,11 +2584,11 @@
             "image": "Sagan.png",
             "audio": "tenquita.mp3",
             "story_name": "El mono científico",
+            "story_id": "7861c1cb-3bdb-483d-a0b8-6afd3736886a",
             "linked_authors": 11
         },
         {
             "id": "José Rafael Pocaterra",
-            "uuid": "2cd9630c-282b-4bf6-b9de-78140e906291",
             "group": 26,
             "country": "Venezuela",
             "birth_year": "1889",
@@ -2819,11 +2597,11 @@
             "image": "Sagan.png",
             "audio": "tenquita.mp3",
             "story_name": "Redención",
+            "story_id": "780d4a76-b4c5-4401-932a-b050bbedd1f7",
             "linked_authors": 3
         },
         {
             "id": "Leonora Carrington",
-            "uuid": "a668d4d3-f46a-4f93-81bd-3d69dcbfcd94",
             "group": 11,
             "country": "Mexico",
             "birth_year": "1917",
@@ -2832,128 +2610,128 @@
             "image": "Sagan.png",
             "audio": "tenquita.mp3",
             "story_name": "Los conejos blancos",
+            "story_id": "75f7afb2-5e42-4cd5-86c7-f91ef2556476",
             "linked_authors": 4
         },
         {
             "id": "J. M. Machado de Assis",
-            "uuid": "3bc086a6-7f52-48c8-ab23-c1bae706b86c",
             "group": 15,
             "country": "Brasil",
             "birth_year": "1839",
             "death_year": "1908",
-            "genre": "Desconocido",
+            "genre": "Unknown",
             "image": "Sagan.png",
             "audio": "tenquita.mp3",
             "story_name": "Un apólogo",
+            "story_id": "766b6b23-07be-48f0-bf41-542e7cff5f95",
             "linked_authors": 1
         },
         {
-            "id": "Próspero Mérimée",
-            "uuid": "bef369f6-728e-4ed4-a7ac-678b4c1ee636",
+            "id": "Prosper Mérimée",
             "group": 6,
             "country": "Francia",
             "birth_year": "1803",
             "death_year": "1870",
-            "genre": "Desconocido",
+            "genre": "Unknown",
             "image": "Sagan.png",
             "audio": "tenquita.mp3",
             "story_name": "La Perla de Toledo",
+            "story_id": "7474d459-99b1-4513-b609-f8996a3adad9",
             "linked_authors": 2
         },
         {
             "id": "Bram Stoker",
-            "uuid": "3ae202f7-15cb-41a0-8433-f6c879f35448",
             "group": 20,
             "country": "Irlanda",
             "birth_year": "1847",
             "death_year": "1912",
-            "genre": "Desconocido",
+            "genre": "Unknown",
             "image": "Sagan.png",
             "audio": "tenquita.mp3",
             "story_name": "Cuando dormía",
+            "story_id": "7455a080-af51-4af0-b768-86d998e08f4f",
             "linked_authors": 2
         },
         {
             "id": "Émile Zola",
-            "uuid": "965ec3d9-50e3-442b-bd61-cc3e40d18acc",
             "group": 6,
             "country": "Francia",
             "birth_year": "1840",
             "death_year": "1902",
-            "genre": "Desconocido",
+            "genre": "Unknown",
             "image": "Sagan.png",
             "audio": "tenquita.mp3",
             "story_name": "Las fresas",
+            "story_id": "80e7c59a-1177-4fa9-8c93-77910d2ac951",
             "linked_authors": 7
         },
         {
             "id": "Jack London",
-            "uuid": "b7704be3-983a-48a9-8e66-2720dcf00826",
             "group": 2,
             "country": "Estados Unidos",
             "birth_year": "1876",
             "death_year": "1916",
-            "genre": "Desconocido",
+            "genre": "Unknown",
             "image": "Sagan.png",
             "audio": "tenquita.mp3",
             "story_name": "Una nariz para el rey",
+            "story_id": "825e26e1-6c88-4d3c-8cbe-c41ae1a9e540",
             "linked_authors": 1
         },
         {
             "id": "Luis Cernuda",
-            "uuid": "becf0445-41e0-4ec0-9f1c-6bc9bfba61ef",
             "group": 1,
             "country": "España",
             "birth_year": "1902",
             "death_year": "1963",
-            "genre": "Desconocido",
+            "genre": "Unknown",
             "image": "Sagan.png",
             "audio": "tenquita.mp3",
             "story_name": "Pregones",
+            "story_id": "80781a36-de8d-4fe0-81a9-7984815cd02d",
             "linked_authors": 55
         },
         {
             "id": "John Steinbeck",
-            "uuid": "22df9b49-a2ce-4158-92ec-eced47308b27",
             "group": 2,
             "country": "Estados Unidos",
             "birth_year": "1902",
             "death_year": "1968",
-            "genre": "Desconocido",
+            "genre": "Unknown",
             "image": "Sagan.png",
             "audio": "tenquita.mp3",
             "story_name": "Desayuno",
+            "story_id": "8500d040-4e32-4ce5-a65c-c401c1f071e2",
             "linked_authors": 4
         },
         {
             "id": "Carlos Fuentes",
-            "uuid": "654cc9d8-b24d-4fb2-9e00-7bff912a8ae2",
             "group": 11,
             "country": "Mexico",
             "birth_year": "1928",
             "death_year": "2012",
-            "genre": "Desconocido",
+            "genre": "Unknown",
             "image": "Sagan.png",
             "audio": "tenquita.mp3",
             "story_name": "La marcha del caracol",
+            "story_id": "883878e4-b1bd-4173-8bdc-e872944aa761",
             "linked_authors": 27
         },
         {
-            "id": "José Francia",
-            "uuid": "16912ce3-ae1f-42b9-982b-6cd8e63dca75",
+            "id": "José Francés",
             "group": 1,
             "country": "España",
             "birth_year": "1883",
             "death_year": "1964",
-            "genre": "Desconocido",
+            "genre": "Unknown",
             "image": "Sagan.png",
             "audio": "tenquita.mp3",
             "story_name": "Por qué Maruja no cree en los reyes magos",
+            "story_id": "8826b1c9-134c-4afd-8a00-c7d21844ab32",
             "linked_authors": 6
         },
         {
             "id": "Giovannino Guareschi",
-            "uuid": "b7e4da3b-ec9f-4c9f-959a-a2ec98ee3d30",
             "group": 9,
             "country": "Italia",
             "birth_year": "1908",
@@ -2962,11 +2740,11 @@
             "image": "Sagan.png",
             "audio": "tenquita.mp3",
             "story_name": "La hectárea",
+            "story_id": "88eee833-772d-48fd-8e13-4e4f6228f510",
             "linked_authors": 1
         },
         {
             "id": "Máximo Gorki",
-            "uuid": "61a91f91-5d03-4d79-b123-e5205a6ca91f",
             "group": 12,
             "country": "Rusia",
             "birth_year": "1868",
@@ -2975,24 +2753,11 @@
             "image": "Sagan.png",
             "audio": "tenquita.mp3",
             "story_name": "La ciudad",
+            "story_id": "877fcd47-8a6c-47f2-aaeb-f5f4b0b78d47",
             "linked_authors": 2
         },
         {
-            "id": "José Luis González",
-            "uuid": "778baf08-2389-4a2e-940f-19fa09722b2b",
-            "group": 31,
-            "country": "Puerto Rico",
-            "birth_year": "1926",
-            "death_year": "1996",
-            "genre": "Desconocido",
-            "image": "Sagan.png",
-            "audio": "tenquita.mp3",
-            "story_name": "En el fondo del cano hay un negrito",
-            "linked_authors": 1
-        },
-        {
             "id": "Daniel Defoe",
-            "uuid": "541fc6ba-664e-4715-a3c8-48d83264fbbe",
             "group": 13,
             "country": "Inglaterra",
             "birth_year": "1659",
@@ -3001,63 +2766,63 @@
             "image": "Sagan.png",
             "audio": "tenquita.mp3",
             "story_name": "El fantasma provechoso",
+            "story_id": "8cf4d3a2-177c-416d-b78e-fca82e275a25",
             "linked_authors": 1
         },
         {
             "id": "Marguerite Duras",
-            "uuid": "8b1ae6f3-402a-4466-9b8c-48e3c0200590",
             "group": 6,
             "country": "Francia",
             "birth_year": "1914",
             "death_year": "1996",
-            "genre": "Desconocido",
+            "genre": "Unknown",
             "image": "Sagan.png",
             "audio": "tenquita.mp3",
             "story_name": "El tren a Burdeos",
+            "story_id": "91e26264-35a3-4bd0-bfb9-aec70137e1ce",
             "linked_authors": 1
         },
         {
             "id": "Boris Vian",
-            "uuid": "1a6672f8-9f74-4ee4-9c3b-636d097d37db",
             "group": 6,
             "country": "Francia",
             "birth_year": "1920",
             "death_year": "1959",
-            "genre": "Desconocido",
+            "genre": "Unknown",
             "image": "Sagan.png",
             "audio": "tenquita.mp3",
             "story_name": "Un corazón de oro",
+            "story_id": "8faa6a6c-2a44-48bc-8331-ef4a214fcc8e",
             "linked_authors": 2
         },
         {
             "id": "Carmen Laforet",
-            "uuid": "cb0e9ddf-e3b9-4452-9968-21039acb7525",
             "group": 1,
             "country": "España",
             "birth_year": "1921",
             "death_year": "2004",
-            "genre": "Desconocido",
+            "genre": "Unknown",
             "image": "Sagan.png",
             "audio": "tenquita.mp3",
             "story_name": "Al colegio",
+            "story_id": "90b68799-8916-42cc-890c-e657b6329db5",
             "linked_authors": 2
         },
         {
             "id": "Haroldo Conti",
-            "uuid": "48cb387f-ee48-4743-9c6a-5c53778113eb",
             "group": 7,
             "country": "Argentina",
             "birth_year": "1925",
             "death_year": "1976",
-            "genre": "Desconocido",
+            "genre": "Unknown",
             "image": "Sagan.png",
             "audio": "tenquita.mp3",
             "story_name": "Los caminos",
+            "story_id": "94e72c13-3786-4239-bfa1-dac861bd0bdd",
             "linked_authors": 6
         },
         {
             "id": "John Cheever",
-            "uuid": "f7b4934f-35ab-4bea-bf94-cacfc9fa4477",
             "group": 2,
             "country": "Estados Unidos",
             "birth_year": "1912",
@@ -3066,24 +2831,24 @@
             "image": "Sagan.png",
             "audio": "tenquita.mp3",
             "story_name": "Reunión",
+            "story_id": "9884ca7f-690e-403f-8306-59d35d917929",
             "linked_authors": 1
         },
         {
             "id": "Alexandr Puchkin",
-            "uuid": "59011e5c-8487-4301-bd3c-a4be79fdeab9",
             "group": 12,
             "country": "Rusia",
             "birth_year": "1799",
             "death_year": "1837",
-            "genre": "Desconocido",
+            "genre": "Unknown",
             "image": "Sagan.png",
             "audio": "tenquita.mp3",
             "story_name": "El pescador y el pez dorado",
+            "story_id": "98af5632-4b5b-4832-98e7-ded67b5007f9",
             "linked_authors": 1
         },
         {
             "id": "William Faulkner",
-            "uuid": "5e3bd1d7-9966-466d-bfc0-b76f7454fcd8",
             "group": 2,
             "country": "Estados Unidos",
             "birth_year": "1897",
@@ -3092,11 +2857,11 @@
             "image": "Sagan.png",
             "audio": "tenquita.mp3",
             "story_name": "Esquileo I",
+            "story_id": "a20be5c9-66f3-4378-abf3-fc5c49a0cec7",
             "linked_authors": 13
         },
         {
             "id": "Rafael Sánchez Ferlosio",
-            "uuid": "ee505ede-4cb1-4217-b1b1-17faef3749ee",
             "group": 1,
             "country": "España",
             "birth_year": "1927",
@@ -3105,11 +2870,11 @@
             "image": "Sagan.png",
             "audio": "tenquita.mp3",
             "story_name": "El pensil sobre el Yang Tse o la hija del emperador",
+            "story_id": "9c1dec6a-a752-46d7-af0a-819a73036a5b",
             "linked_authors": 4
         },
         {
             "id": "Virginia Woolf",
-            "uuid": "14214c26-4442-4376-832f-c1415d73eb7f",
             "group": 13,
             "country": "Inglaterra",
             "birth_year": "1882",
@@ -3118,12 +2883,12 @@
             "image": "Sagan.png",
             "audio": "tenquita.mp3",
             "story_name": "La casa encantada",
+            "story_id": "a0657f2b-5625-4b96-a043-af2607dfd8de",
             "linked_authors": 9
         },
         {
             "id": "Augusto Roa Bastos",
-            "uuid": "b56a8dfc-4905-417c-9bf0-7d14101529d3",
-            "group": 46,
+            "group": 44,
             "country": "Paraguay",
             "birth_year": "1917",
             "death_year": "2005",
@@ -3131,11 +2896,11 @@
             "image": "Sagan.png",
             "audio": "tenquita.mp3",
             "story_name": "El baldío",
+            "story_id": "9c6c2b79-4e83-4870-b4df-24404b08d01f",
             "linked_authors": 9
         },
         {
             "id": "Marguerite Yourcenar",
-            "uuid": "c09b1809-159c-41ff-a607-a4fe3ba4b72b",
             "group": 27,
             "country": "Belgica",
             "birth_year": "1903",
@@ -3144,11 +2909,11 @@
             "image": "Sagan.png",
             "audio": "tenquita.mp3",
             "story_name": "La tristeza de Cornelius Berg",
+            "story_id": "a4e9de70-2a95-474e-9b63-b99725165a0d",
             "linked_authors": 10
         },
         {
             "id": "José María Arguedas",
-            "uuid": "0c9e1b0c-6b70-41f4-9127-0e08dd853fe3",
             "group": 22,
             "country": "Peru",
             "birth_year": "1911",
@@ -3157,11 +2922,11 @@
             "image": "Sagan.png",
             "audio": "tenquita.mp3",
             "story_name": "El barranco",
+            "story_id": "a6252aca-b0e8-4ca3-be58-98e8f966bae8",
             "linked_authors": 1
         },
         {
             "id": "Anaïs Nin",
-            "uuid": "e1b89aeb-b996-440b-8260-4d5775d65c53",
             "group": 6,
             "country": "Francia",
             "birth_year": "1903",
@@ -3170,37 +2935,37 @@
             "image": "Sagan.png",
             "audio": "tenquita.mp3",
             "story_name": "Mallorca",
+            "story_id": "aebf00c9-5bf1-41bc-967e-a0a0c14532c7",
             "linked_authors": 3
         },
         {
             "id": "Amparo Dávila",
-            "uuid": "2f66daba-428a-4310-999d-846e3dfe60d0",
             "group": 11,
             "country": "Mexico",
             "birth_year": "1928",
             "death_year": "2020",
-            "genre": "Desconocido",
+            "genre": "Unknown",
             "image": "Sagan.png",
             "audio": "tenquita.mp3",
             "story_name": "Alta cocina",
+            "story_id": "bc7d6d92-030d-4d4c-a3a9-d666c682835d",
             "linked_authors": 1
         },
         {
             "id": "Dorothy Parker",
-            "uuid": "a4c0cd2f-2a80-46cb-a529-e044416e9ec9",
             "group": 2,
             "country": "Estados Unidos",
             "birth_year": "1893",
             "death_year": "1967",
-            "genre": "Desconocido",
+            "genre": "Unknown",
             "image": "Sagan.png",
             "audio": "tenquita.mp3",
             "story_name": "Estuviste perfectamente bien",
+            "story_id": "bc8c0893-c046-4cd6-918f-06f2eac451cc",
             "linked_authors": 2
         },
         {
-            "id": "Alfonso Rodríguez Castelao",
-            "uuid": "1a6926d2-88cb-46ff-97ac-3ec307bf9448",
+            "id": "Castelao",
             "group": 1,
             "country": "España",
             "birth_year": "1886",
@@ -3209,50 +2974,50 @@
             "image": "Sagan.png",
             "audio": "tenquita.mp3",
             "story_name": "El retrato",
+            "story_id": "ba73acc8-8ff6-4ad3-bfca-7fd146aae768",
             "linked_authors": 4
         },
         {
             "id": "Leopoldo Marechal",
-            "uuid": "3d42cfde-1114-4b28-adcb-34857c3c9dd4",
             "group": 7,
             "country": "Argentina",
             "birth_year": "1900",
             "death_year": "1970",
-            "genre": "Desconocido",
+            "genre": "Unknown",
             "image": "Sagan.png",
             "audio": "tenquita.mp3",
             "story_name": "Primer apólogo chino",
+            "story_id": "be424745-18cf-4b22-b593-3674f8e886d7",
             "linked_authors": 1
         },
         {
             "id": "Dylan Thomas",
-            "uuid": "0a881670-0d65-4f0f-986d-dfe62bf462a5",
-            "group": 49,
+            "group": 47,
             "country": "Gales",
             "birth_year": "1914",
             "death_year": "1953",
-            "genre": "Desconocido",
+            "genre": "Unknown",
             "image": "Sagan.png",
             "audio": "tenquita.mp3",
             "story_name": "El vestido",
+            "story_id": "ca810c6f-5336-409a-ad57-b474618e4074",
             "linked_authors": 2
         },
         {
             "id": "Wenceslao Fernández Flórez",
-            "uuid": "e3a04d3a-8696-40ba-b78d-9a82759bc8bf",
             "group": 1,
             "country": "España",
             "birth_year": "1885",
             "death_year": "1964",
-            "genre": "Desconocido",
+            "genre": "Unknown",
             "image": "Sagan.png",
             "audio": "tenquita.mp3",
             "story_name": "Los viajes",
+            "story_id": "ceb99fae-bd17-4207-8a55-6a8b0ddfb84d",
             "linked_authors": 3
         },
         {
             "id": "Alberto Moravia",
-            "uuid": "c92853f7-fddb-40b2-a328-8be230d4c928",
             "group": 9,
             "country": "Italia",
             "birth_year": "1907",
@@ -3261,37 +3026,37 @@
             "image": "Sagan.png",
             "audio": "tenquita.mp3",
             "story_name": "Amor verdadero",
+            "story_id": "cb6c4daa-67a8-44d0-bdc5-b456179eda0f",
             "linked_authors": 2
         },
         {
             "id": "Doris Lessing",
-            "uuid": "75b0a3ae-ef20-4d86-a894-1b0575f6f5b8",
             "group": 13,
             "country": "Inglaterra",
             "birth_year": "1919",
             "death_year": "2013",
-            "genre": "Desconocido",
+            "genre": "Unknown",
             "image": "Sagan.png",
             "audio": "tenquita.mp3",
             "story_name": "Homenaje a Isaac Babel",
+            "story_id": "dd7b688d-a4a2-4fde-ba23-c243a321631e",
             "linked_authors": 4
         },
         {
             "id": "Juan Vicente Camacho",
-            "uuid": "41ca59b3-db44-44e7-8748-ceaa4868447c",
             "group": 26,
             "country": "Venezuela",
             "birth_year": "1829",
             "death_year": "1872",
-            "genre": "Desconocido",
+            "genre": "Unknown",
             "image": "Sagan.png",
             "audio": "tenquita.mp3",
             "story_name": "La estatua de bronce",
+            "story_id": "dca6a4ae-4887-4bbe-b2fc-b46a956db355",
             "linked_authors": 3
         },
         {
             "id": "Carlos Martínez Moreno",
-            "uuid": "e8b58974-dc08-4d6d-871c-f40d9083ac8a",
             "group": 3,
             "country": "Uruguay",
             "birth_year": "1917",
@@ -3300,11 +3065,11 @@
             "image": "Sagan.png",
             "audio": "tenquita.mp3",
             "story_name": "El prisionero",
+            "story_id": "e19c7b99-ea17-4178-aa6d-72a8ca184640",
             "linked_authors": 2
         },
         {
             "id": "Elena Garro",
-            "uuid": "fad63116-3615-4b54-ae66-34ec8852fa67",
             "group": 11,
             "country": "Mexico",
             "birth_year": "1916",
@@ -3313,50 +3078,50 @@
             "image": "Sagan.png",
             "audio": "tenquita.mp3",
             "story_name": "Teología",
+            "story_id": "e33509f3-1faf-4cbd-a388-aaaba428238a",
             "linked_authors": 6
         },
         {
             "id": "Sergio Pitol",
-            "uuid": "b35d86b3-40d8-4e41-835c-1a16a19fad59",
             "group": 11,
             "country": "Mexico",
             "birth_year": "1933",
             "death_year": "2018",
-            "genre": "Desconocido",
+            "genre": "Unknown",
             "image": "Sagan.png",
             "audio": "tenquita.mp3",
             "story_name": "La pantera",
+            "story_id": "ec97e9f5-074e-4c1a-a746-78a741f064ba",
             "linked_authors": 13
         },
         {
             "id": "Jesús Fernández Santos",
-            "uuid": "107d6355-8d72-4bb9-842f-c85629d6bc99",
             "group": 1,
             "country": "España",
             "birth_year": "1926",
             "death_year": "1988",
-            "genre": "Desconocido",
+            "genre": "Unknown",
             "image": "Sagan.png",
             "audio": "tenquita.mp3",
             "story_name": "Cabeza rapada",
+            "story_id": "ee928b99-46e0-466d-ad70-7a22900cd610",
             "linked_authors": 4
         },
         {
             "id": "Katherine Anne Porter",
-            "uuid": "61b20260-5a1a-4a24-8af3-2dc07a6bfac6",
             "group": 2,
             "country": "Estados Unidos",
             "birth_year": "1890",
             "death_year": "1980",
-            "genre": "Desconocido",
+            "genre": "Unknown",
             "image": "Sagan.png",
             "audio": "tenquita.mp3",
             "story_name": "Magia",
+            "story_id": "e831aeeb-6fcf-47aa-a1fa-557e398e58aa",
             "linked_authors": 1
         },
         {
             "id": "Massimo Bontempelli",
-            "uuid": "2e7c2afd-3458-4b85-9b66-19ad99ac01d9",
             "group": 9,
             "country": "Italia",
             "birth_year": "1878",
@@ -3365,11 +3130,11 @@
             "image": "Sagan.png",
             "audio": "tenquita.mp3",
             "story_name": "La calle Bellovesi",
+            "story_id": "ec698bd4-8f8e-4ffa-a2e0-0fb50c2c2c2a",
             "linked_authors": 2
         },
         {
             "id": "Osamu Dazai",
-            "uuid": "407fbe9b-f968-41b9-8626-b7ffa133bbe6",
             "group": 34,
             "country": "Japon",
             "birth_year": "1909",
@@ -3378,11 +3143,11 @@
             "image": "Sagan.png",
             "audio": "tenquita.mp3",
             "story_name": "Esperando",
+            "story_id": "f30fe41d-b913-41cd-835a-36e643123b93",
             "linked_authors": 1
         },
         {
             "id": "Herman Melville",
-            "uuid": "52956f69-b781-4400-ba4c-7e814404cfb3",
             "group": 2,
             "country": "Estados Unidos",
             "birth_year": "1819",
@@ -3391,19 +3156,20 @@
             "image": "Sagan.png",
             "audio": "tenquita.mp3",
             "story_name": "En el país de Queequeg",
+            "story_id": "fd32308f-78ca-434b-b943-f95ff1c2bd2d",
             "linked_authors": 1
         },
         {
             "id": "Eduardo de Palacio",
-            "uuid": "e7c9a287-1784-4321-8657-a769d9fccb9a",
             "group": 1,
             "country": "España",
             "birth_year": "1835",
             "death_year": "1930",
-            "genre": "Desconocido",
+            "genre": "Unknown",
             "image": "Sagan.png",
             "audio": "tenquita.mp3",
             "story_name": "El premio grueso",
+            "story_id": "fffe5619-0f74-4c1d-8168-25c5da6531a2",
             "linked_authors": 1
         }
     ],
@@ -3459,12 +3225,12 @@
             "value": 1
         },
         {
-            "source": "Virgilio Pinera",
+            "source": "Virgilio Piñera",
             "target": "Jorge Luis Borges",
             "value": 1
         },
         {
-            "source": "Virgilio Pinera",
+            "source": "Virgilio Piñera",
             "target": "José Lezama Lima",
             "value": 1
         },
@@ -3511,16 +3277,6 @@
         {
             "source": "Adolfo Bioy Casares",
             "target": "Silvina Ocampo",
-            "value": 1
-        },
-        {
-            "source": "Fernán Caballero",
-            "target": "Juan Valera",
-            "value": 1
-        },
-        {
-            "source": "Fernán Caballero",
-            "target": "Washington Irving",
             "value": 1
         },
         {
@@ -3610,7 +3366,12 @@
         },
         {
             "source": "Emilia Pardo Bazán",
-            "target": "Vicente Blasco Ibánez",
+            "target": "Vicente Blasco Ibáñez",
+            "value": 1
+        },
+        {
+            "source": "Emilia Pardo Bazán",
+            "target": "Victor Hugo",
             "value": 1
         },
         {
@@ -3694,23 +3455,18 @@
             "value": 1
         },
         {
-            "source": "Ferdo Pessoa",
+            "source": "Fernando Pessoa",
             "target": "Edgar Allan Poe",
             "value": 1
         },
         {
-            "source": "Ferdo Pessoa",
+            "source": "Fernando Pessoa",
             "target": "José Saramago",
             "value": 1
         },
         {
-            "source": "Ferdo Pessoa",
+            "source": "Fernando Pessoa",
             "target": "Octavio Paz",
-            "value": 1
-        },
-        {
-            "source": "Lafcadio Hearn",
-            "target": "Guy de Maupassant",
             "value": 1
         },
         {
@@ -3760,12 +3516,12 @@
         },
         {
             "source": "Rabindranath Tagore",
-            "target": "León Tolstoi",
+            "target": "Octavio Paz",
             "value": 1
         },
         {
             "source": "Rabindranath Tagore",
-            "target": "Octavio Paz",
+            "target": "Yasunari Kawabata",
             "value": 1
         },
         {
@@ -3790,7 +3546,7 @@
         },
         {
             "source": "Álvaro Cepeda Samudio",
-            "target": "Herdo Téllez",
+            "target": "Hernando Téllez",
             "value": 1
         },
         {
@@ -3914,37 +3670,32 @@
             "value": 1
         },
         {
-            "source": "Anton Chejov",
+            "source": "Antón Chéjov",
             "target": "E. L. Doctorow",
             "value": 1
         },
         {
-            "source": "Anton Chejov",
+            "source": "Antón Chéjov",
             "target": "Edgar Allan Poe",
             "value": 1
         },
         {
-            "source": "Anton Chejov",
-            "target": "Guy de Maupassant",
-            "value": 1
-        },
-        {
-            "source": "Anton Chejov",
+            "source": "Antón Chéjov",
             "target": "Jorge Luis Borges",
             "value": 1
         },
         {
-            "source": "Anton Chejov",
+            "source": "Antón Chéjov",
             "target": "Máximo Gorki",
             "value": 1
         },
         {
-            "source": "Anton Chejov",
+            "source": "Antón Chéjov",
             "target": "Virginia Woolf",
             "value": 1
         },
         {
-            "source": "Anton Chejov",
+            "source": "Antón Chéjov",
             "target": "Émile Zola",
             "value": 1
         },
@@ -3995,6 +3746,11 @@
         },
         {
             "source": "Gabriel García Márquez",
+            "target": "Miguel Ángel Asturias",
+            "value": 1
+        },
+        {
+            "source": "Gabriel García Márquez",
             "target": "Virginia Woolf",
             "value": 1
         },
@@ -4020,11 +3776,6 @@
         },
         {
             "source": "Horacio Quiroga",
-            "target": "Guy de Maupassant",
-            "value": 1
-        },
-        {
-            "source": "Horacio Quiroga",
             "target": "Leopoldo Lugones",
             "value": 1
         },
@@ -4045,7 +3796,7 @@
         },
         {
             "source": "Teresa de la Parra",
-            "target": "Guy de Maupassant",
+            "target": "Anatole France",
             "value": 1
         },
         {
@@ -4089,7 +3840,7 @@
             "value": 1
         },
         {
-            "source": "Eduardo Gudino Kieffer",
+            "source": "Eduardo Gudiño Kieffer",
             "target": "Julio Cortázar",
             "value": 1
         },
@@ -4099,37 +3850,37 @@
             "value": 1
         },
         {
-            "source": "G.K. Chesterton",
+            "source": "G. K. Chesterton",
             "target": "Ernest Hemingway",
             "value": 1
         },
         {
-            "source": "G.K. Chesterton",
+            "source": "G. K. Chesterton",
             "target": "Franz Kafka",
             "value": 1
         },
         {
-            "source": "G.K. Chesterton",
+            "source": "G. K. Chesterton",
             "target": "Gabriel García Márquez",
             "value": 1
         },
         {
-            "source": "G.K. Chesterton",
+            "source": "G. K. Chesterton",
             "target": "Graham Greene",
             "value": 1
         },
         {
-            "source": "G.K. Chesterton",
+            "source": "G. K. Chesterton",
             "target": "Jorge Luis Borges",
             "value": 1
         },
         {
-            "source": "G.K. Chesterton",
+            "source": "G. K. Chesterton",
             "target": "Julio Cortázar",
             "value": 1
         },
         {
-            "source": "G.K. Chesterton",
+            "source": "G. K. Chesterton",
             "target": "Robert Louis Stevenson",
             "value": 1
         },
@@ -4269,48 +4020,13 @@
             "value": 1
         },
         {
-            "source": "Luis Vidales",
-            "target": "Jean-Paul Sartre",
-            "value": 1
-        },
-        {
-            "source": "Luis Vidales",
-            "target": "Jorge Luis Borges",
-            "value": 1
-        },
-        {
-            "source": "Luis Vidales",
-            "target": "Vicente Huidobro",
-            "value": 1
-        },
-        {
-            "source": "Mark Twain",
-            "target": "Ernest Hemingway",
-            "value": 1
-        },
-        {
-            "source": "Mark Twain",
-            "target": "Herman Melville",
-            "value": 1
-        },
-        {
-            "source": "Mark Twain",
-            "target": "Robert Louis Stevenson",
-            "value": 1
-        },
-        {
-            "source": "Mark Twain",
-            "target": "William Faulkner",
-            "value": 1
-        },
-        {
             "source": "Miguel de Unamuno",
             "target": "Federico García Lorca",
             "value": 1
         },
         {
             "source": "Miguel de Unamuno",
-            "target": "Ferdo Pessoa",
+            "target": "Fernando Pessoa",
             "value": 1
         },
         {
@@ -4499,13 +4215,13 @@
             "value": 1
         },
         {
-            "source": "Rudyard Kipling",
-            "target": "Arthur Co Doyle",
+            "source": "Julio Cortázar",
+            "target": "Victor Hugo",
             "value": 1
         },
         {
             "source": "Rudyard Kipling",
-            "target": "Mark Twain",
+            "target": "Arthur Conan Doyle",
             "value": 1
         },
         {
@@ -4610,27 +4326,32 @@
         },
         {
             "source": "Ambrose Bierce",
-            "target": "Mark Twain",
-            "value": 1
-        },
-        {
-            "source": "Ambrose Bierce",
             "target": "Nathaniel Hawthorne",
             "value": 1
         },
         {
-            "source": "Yasunari Japon",
+            "source": "Yasunari Kawabata",
+            "target": "Miguel Ángel Asturias",
+            "value": 1
+        },
+        {
+            "source": "Yasunari Kawabata",
             "target": "Osamu Dazai",
             "value": 1
         },
         {
-            "source": "Yasunari Japon",
+            "source": "Yasunari Kawabata",
             "target": "Rabindranath Tagore",
             "value": 1
         },
         {
-            "source": "Slawomir Mrozek",
+            "source": "Sławomir Mrożek",
             "target": "Sergio Pitol",
+            "value": 1
+        },
+        {
+            "source": "Alfred de Musset",
+            "target": "Victor Hugo",
             "value": 1
         },
         {
@@ -4664,12 +4385,12 @@
             "value": 1
         },
         {
-            "source": "Víctor Hugo",
+            "source": "Victor Hugo",
             "target": "Alfred de Musset",
             "value": 1
         },
         {
-            "source": "Víctor Hugo",
+            "source": "Victor Hugo",
             "target": "Émile Zola",
             "value": 1
         },
@@ -4739,6 +4460,11 @@
             "value": 1
         },
         {
+            "source": "Rubén Darío",
+            "target": "Victor Hugo",
+            "value": 1
+        },
+        {
             "source": "Felisberto Hernández",
             "target": "Franz Kafka",
             "value": 1
@@ -4779,7 +4505,12 @@
             "value": 1
         },
         {
-            "source": "Ryunosuke Akutagawa",
+            "source": "Ryūnosuke Akutagawa",
+            "target": "Anatole France",
+            "value": 1
+        },
+        {
+            "source": "Ryūnosuke Akutagawa",
             "target": "Jorge Luis Borges",
             "value": 1
         },
@@ -4796,16 +4527,6 @@
         {
             "source": "Marcel Schwob",
             "target": "William Faulkner",
-            "value": 1
-        },
-        {
-            "source": "Rafael Barrett",
-            "target": "Augusto Roa Bastos",
-            "value": 1
-        },
-        {
-            "source": "Rafael Barrett",
-            "target": "Jorge Luis Borges",
             "value": 1
         },
         {
@@ -4865,7 +4586,7 @@
         },
         {
             "source": "Edgar Allan Poe",
-            "target": "Arthur Co Doyle",
+            "target": "Arthur Conan Doyle",
             "value": 1
         },
         {
@@ -4881,11 +4602,6 @@
         {
             "source": "Edgar Allan Poe",
             "target": "Franz Kafka",
-            "value": 1
-        },
-        {
-            "source": "Edgar Allan Poe",
-            "target": "Guy de Maupassant",
             "value": 1
         },
         {
@@ -4969,11 +4685,6 @@
             "value": 1
         },
         {
-            "source": "Patricia Highsmith",
-            "target": "Guy de Maupassant",
-            "value": 1
-        },
-        {
             "source": "Katherine Mansfield",
             "target": "Virginia Woolf",
             "value": 1
@@ -4991,11 +4702,6 @@
         {
             "source": "Ernest Hemingway",
             "target": "Herman Melville",
-            "value": 1
-        },
-        {
-            "source": "Ernest Hemingway",
-            "target": "Mark Twain",
             "value": 1
         },
         {
@@ -5024,12 +4730,12 @@
             "value": 1
         },
         {
-            "source": "Arthur Co Doyle",
+            "source": "Arthur Conan Doyle",
             "target": "Robert Louis Stevenson",
             "value": 1
         },
         {
-            "source": "Arthur Co Doyle",
+            "source": "Arthur Conan Doyle",
             "target": "Rudyard Kipling",
             "value": 1
         },
@@ -5099,22 +4805,22 @@
             "value": 1
         },
         {
-            "source": "Leopoldo Alas \"Clarín\"",
+            "source": "Leopoldo Alas, Clarín",
             "target": "Emilia Pardo Bazán",
             "value": 1
         },
         {
-            "source": "Leopoldo Alas \"Clarín\"",
+            "source": "Leopoldo Alas, Clarín",
             "target": "Francisco Pi y Margall",
             "value": 1
         },
         {
-            "source": "Leopoldo Alas \"Clarín\"",
+            "source": "Leopoldo Alas, Clarín",
             "target": "José Echegaray",
             "value": 1
         },
         {
-            "source": "Leopoldo Alas \"Clarín\"",
+            "source": "Leopoldo Alas, Clarín",
             "target": "Émile Zola",
             "value": 1
         },
@@ -5124,17 +4830,17 @@
             "value": 1
         },
         {
-            "source": "Anatole Francia",
+            "source": "Anatole France",
             "target": "Carlos Fuentes",
             "value": 1
         },
         {
-            "source": "Anatole Francia",
+            "source": "Anatole France",
             "target": "Jacinto Benavente",
             "value": 1
         },
         {
-            "source": "Anatole Francia",
+            "source": "Anatole France",
             "target": "Émile Zola",
             "value": 1
         },
@@ -5156,11 +4862,6 @@
         {
             "source": "Pedro Emilio Coll",
             "target": "José Rafael Pocaterra",
-            "value": 1
-        },
-        {
-            "source": "Pedro Emilio Coll",
-            "target": "Julio Garmendia",
             "value": 1
         },
         {
@@ -5214,42 +4915,37 @@
             "value": 1
         },
         {
-            "source": "Rafael Dieste",
-            "target": "Federico García Lorca",
+            "source": "Vicente Blasco Ibáñez",
+            "target": "Anatole France",
             "value": 1
         },
         {
-            "source": "Rafael Dieste",
-            "target": "Miguel de Unamuno",
-            "value": 1
-        },
-        {
-            "source": "Vicente Blasco Ibánez",
+            "source": "Vicente Blasco Ibáñez",
             "target": "Edgar Allan Poe",
             "value": 1
         },
         {
-            "source": "Vicente Blasco Ibánez",
+            "source": "Vicente Blasco Ibáñez",
             "target": "Emilia Pardo Bazán",
             "value": 1
         },
         {
-            "source": "Vicente Blasco Ibánez",
+            "source": "Vicente Blasco Ibáñez",
             "target": "Jack London",
             "value": 1
         },
         {
-            "source": "Vicente Blasco Ibánez",
+            "source": "Vicente Blasco Ibáñez",
             "target": "Miguel de Unamuno",
             "value": 1
         },
         {
-            "source": "Vicente Blasco Ibánez",
-            "target": "Víctor Hugo",
+            "source": "Vicente Blasco Ibáñez",
+            "target": "Victor Hugo",
             "value": 1
         },
         {
-            "source": "Vicente Blasco Ibánez",
+            "source": "Vicente Blasco Ibáñez",
             "target": "Émile Zola",
             "value": 1
         },
@@ -5269,21 +4965,6 @@
             "value": 1
         },
         {
-            "source": "Naguib Mahfuz",
-            "target": "Camilo José Cela",
-            "value": 1
-        },
-        {
-            "source": "Naguib Mahfuz",
-            "target": "Franz Kafka",
-            "value": 1
-        },
-        {
-            "source": "Naguib Mahfuz",
-            "target": "Émile Zola",
-            "value": 1
-        },
-        {
             "source": "Juan Emar",
             "target": "Vicente Huidobro",
             "value": 1
@@ -5294,22 +4975,7 @@
             "value": 1
         },
         {
-            "source": "Guy de Maupassant",
-            "target": "Edgar Allan Poe",
-            "value": 1
-        },
-        {
-            "source": "Guy de Maupassant",
-            "target": "Horacio Quiroga",
-            "value": 1
-        },
-        {
-            "source": "Guy de Maupassant",
-            "target": "Émile Zola",
-            "value": 1
-        },
-        {
-            "source": "Iván Turgueniev",
+            "source": "Iván Turguénev",
             "target": "Nathaniel Hawthorne",
             "value": 1
         },
@@ -5351,11 +5017,6 @@
         {
             "source": "Camilo José Cela",
             "target": "José Saramago",
-            "value": 1
-        },
-        {
-            "source": "Camilo José Cela",
-            "target": "Naguib Mahfuz",
             "value": 1
         },
         {
@@ -5414,6 +5075,11 @@
             "value": 1
         },
         {
+            "source": "Juan Valera",
+            "target": "Victor Hugo",
+            "value": 1
+        },
+        {
             "source": "William Goyen",
             "target": "William Faulkner",
             "value": 1
@@ -5435,7 +5101,7 @@
         },
         {
             "source": "José Zorrilla",
-            "target": "Víctor Hugo",
+            "target": "Victor Hugo",
             "value": 1
         },
         {
@@ -5475,7 +5141,7 @@
         },
         {
             "source": "Oscar Wilde",
-            "target": "Arthur Co Doyle",
+            "target": "Arthur Conan Doyle",
             "value": 1
         },
         {
@@ -5484,23 +5150,8 @@
             "value": 1
         },
         {
-            "source": "Oscar Wilde",
-            "target": "Mark Twain",
-            "value": 1
-        },
-        {
-            "source": "Isaac Babel",
-            "target": "Guy de Maupassant",
-            "value": 1
-        },
-        {
-            "source": "Isaac Babel",
+            "source": "Isaak Bábel",
             "target": "Máximo Gorki",
-            "value": 1
-        },
-        {
-            "source": "Gregorio López y Fuentes",
-            "target": "Ernest Hemingway",
             "value": 1
         },
         {
@@ -5526,36 +5177,6 @@
         {
             "source": "Vicente Huidobro",
             "target": "Teresa Wilms Montt",
-            "value": 1
-        },
-        {
-            "source": "O. Henry",
-            "target": "Dorothy Parker",
-            "value": 1
-        },
-        {
-            "source": "O. Henry",
-            "target": "Edgar Allan Poe",
-            "value": 1
-        },
-        {
-            "source": "O. Henry",
-            "target": "John Updike",
-            "value": 1
-        },
-        {
-            "source": "O. Henry",
-            "target": "Jorge Luis Borges",
-            "value": 1
-        },
-        {
-            "source": "O. Henry",
-            "target": "Truman Capote",
-            "value": 1
-        },
-        {
-            "source": "O. Henry",
-            "target": "William Faulkner",
             "value": 1
         },
         {
@@ -5590,6 +5211,11 @@
         },
         {
             "source": "F. Scott Fitzgerald",
+            "target": "Anatole France",
+            "value": 1
+        },
+        {
+            "source": "F. Scott Fitzgerald",
             "target": "Dorothy Parker",
             "value": 1
         },
@@ -5599,47 +5225,47 @@
             "value": 1
         },
         {
-            "source": "F. Scott Fitzgerald",
-            "target": "Guy de Maupassant",
-            "value": 1
-        },
-        {
-            "source": "Ramón del Valle Inclán",
+            "source": "Ramón María del Valle-Inclán",
             "target": "Alphonse Daudet",
             "value": 1
         },
         {
-            "source": "Ramón del Valle Inclán",
+            "source": "Ramón María del Valle-Inclán",
+            "target": "Anatole France",
+            "value": 1
+        },
+        {
+            "source": "Ramón María del Valle-Inclán",
             "target": "Jacinto Benavente",
             "value": 1
         },
         {
-            "source": "Ramón del Valle Inclán",
+            "source": "Ramón María del Valle-Inclán",
             "target": "José Zorrilla",
             "value": 1
         },
         {
-            "source": "Ramón del Valle Inclán",
+            "source": "Ramón María del Valle-Inclán",
             "target": "Juan Valera",
             "value": 1
         },
         {
-            "source": "Ramón del Valle Inclán",
+            "source": "Ramón María del Valle-Inclán",
             "target": "Miguel de Unamuno",
             "value": 1
         },
         {
-            "source": "Ramón del Valle Inclán",
+            "source": "Ramón María del Valle-Inclán",
             "target": "Pío Baroja",
             "value": 1
         },
         {
-            "source": "Ramón del Valle Inclán",
+            "source": "Ramón María del Valle-Inclán",
             "target": "Ramón Gómez de la Serna",
             "value": 1
         },
         {
-            "source": "Ramón del Valle Inclán",
+            "source": "Ramón María del Valle-Inclán",
             "target": "Rubén Darío",
             "value": 1
         },
@@ -5800,7 +5426,7 @@
         },
         {
             "source": "José Lezama Lima",
-            "target": "Virgilio Pinera",
+            "target": "Virgilio Piñera",
             "value": 1
         },
         {
@@ -5821,6 +5447,11 @@
         {
             "source": "Alejo Carpentier",
             "target": "José Donoso",
+            "value": 1
+        },
+        {
+            "source": "Alejo Carpentier",
+            "target": "Miguel Ángel Asturias",
             "value": 1
         },
         {
@@ -5849,58 +5480,8 @@
             "value": 1
         },
         {
-            "source": "Julio Garmendia",
-            "target": "Felisberto Hernández",
-            "value": 1
-        },
-        {
-            "source": "Julio Garmendia",
-            "target": "Jorge Luis Borges",
-            "value": 1
-        },
-        {
-            "source": "Julio Garmendia",
-            "target": "José Rafael Pocaterra",
-            "value": 1
-        },
-        {
-            "source": "Julio Garmendia",
-            "target": "João Guimarães Rosa",
-            "value": 1
-        },
-        {
-            "source": "Julio Garmendia",
-            "target": "Juan Rulfo",
-            "value": 1
-        },
-        {
-            "source": "Julio Garmendia",
-            "target": "Julio Cortázar",
-            "value": 1
-        },
-        {
-            "source": "Julio Garmendia",
-            "target": "Pablo Palacio",
-            "value": 1
-        },
-        {
-            "source": "Julio Garmendia",
-            "target": "Pedro Emilio Coll",
-            "value": 1
-        },
-        {
-            "source": "Julio Garmendia",
-            "target": "Philip K. Dick",
-            "value": 1
-        },
-        {
-            "source": "Julio Garmendia",
-            "target": "Roberto Arlt",
-            "value": 1
-        },
-        {
             "source": "Arthur Machen",
-            "target": "Arthur Co Doyle",
+            "target": "Arthur Conan Doyle",
             "value": 1
         },
         {
@@ -5974,6 +5555,11 @@
             "value": 1
         },
         {
+            "source": "Abelardo Castillo",
+            "target": "Miguel Ángel Asturias",
+            "value": 1
+        },
+        {
             "source": "Philip K. Dick",
             "target": "Jorge Luis Borges",
             "value": 1
@@ -6009,38 +5595,48 @@
             "value": 1
         },
         {
-            "source": "Miguel Ángel Espana",
+            "source": "Miguel Ángel Asturias",
             "target": "Alejo Carpentier",
             "value": 1
         },
         {
-            "source": "Miguel Ángel Espana",
+            "source": "Miguel Ángel Asturias",
             "target": "Augusto Roa Bastos",
             "value": 1
         },
         {
-            "source": "Miguel Ángel Espana",
+            "source": "Miguel Ángel Asturias",
             "target": "Franz Kafka",
             "value": 1
         },
         {
-            "source": "Miguel Ángel Espana",
+            "source": "Miguel Ángel Asturias",
             "target": "Gabriel García Márquez",
             "value": 1
         },
         {
-            "source": "Miguel Ángel Espana",
+            "source": "Miguel Ángel Asturias",
             "target": "Jorge Luis Borges",
             "value": 1
         },
         {
-            "source": "Miguel Ángel Espana",
+            "source": "Miguel Ángel Asturias",
             "target": "José María Arguedas",
             "value": 1
         },
         {
-            "source": "Miguel Ángel Espana",
+            "source": "Miguel Ángel Asturias",
             "target": "William Faulkner",
+            "value": 1
+        },
+        {
+            "source": "Miguel Ángel Asturias",
+            "target": "Yasunari Kawabata",
+            "value": 1
+        },
+        {
+            "source": "Jacinto Benavente",
+            "target": "Anatole France",
             "value": 1
         },
         {
@@ -6115,7 +5711,7 @@
         },
         {
             "source": "Robert Louis Stevenson",
-            "target": "Mark Twain",
+            "target": "Victor Hugo",
             "value": 1
         },
         {
@@ -6140,7 +5736,7 @@
         },
         {
             "source": "Bram Stoker",
-            "target": "Arthur Co Doyle",
+            "target": "Arthur Conan Doyle",
             "value": 1
         },
         {
@@ -6155,17 +5751,12 @@
         },
         {
             "source": "Émile Zola",
-            "target": "Guy de Maupassant",
+            "target": "Anatole France",
             "value": 1
         },
         {
             "source": "Émile Zola",
             "target": "Joris-Karl Huysmans",
-            "value": 1
-        },
-        {
-            "source": "Jack London",
-            "target": "Mark Twain",
             "value": 1
         },
         {
@@ -6201,11 +5792,6 @@
         {
             "source": "John Steinbeck",
             "target": "Ernest Hemingway",
-            "value": 1
-        },
-        {
-            "source": "John Steinbeck",
-            "target": "O. Henry",
             "value": 1
         },
         {
@@ -6265,11 +5851,6 @@
         },
         {
             "source": "Carlos Fuentes",
-            "target": "Mark Twain",
-            "value": 1
-        },
-        {
-            "source": "Carlos Fuentes",
             "target": "Nathaniel Hawthorne",
             "value": 1
         },
@@ -6299,18 +5880,23 @@
             "value": 1
         },
         {
-            "source": "José Francia",
-            "target": "Arthur Co Doyle",
+            "source": "José Francés",
+            "target": "Arthur Conan Doyle",
             "value": 1
         },
         {
-            "source": "José Francia",
+            "source": "José Francés",
             "target": "Edgar Allan Poe",
             "value": 1
         },
         {
-            "source": "José Francia",
+            "source": "José Francés",
             "target": "Felipe Trigo",
+            "value": 1
+        },
+        {
+            "source": "Máximo Gorki",
+            "target": "Anatole France",
             "value": 1
         },
         {
@@ -6479,13 +6065,13 @@
             "value": 1
         },
         {
-            "source": "Alfonso Rodríguez Castelao",
-            "target": "Mark Twain",
+            "source": "Leopoldo Marechal",
+            "target": "Julio Cortázar",
             "value": 1
         },
         {
-            "source": "Leopoldo Marechal",
-            "target": "Julio Cortázar",
+            "source": "Wenceslao Fernández Flórez",
+            "target": "Anatole France",
             "value": 1
         },
         {
