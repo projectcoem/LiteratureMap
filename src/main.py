@@ -221,6 +221,10 @@ def get_author_page():
 def get_author_page_3D():
     return FileResponse(os.path.join("static", "authorToAuthor3D.html"))
 
+@app.get("/drawGif")
+def draw_gif():
+    return FileResponse(os.path.join("static", "drawGif.html"))
+
 @app.get("/authorToAuthor3DSmall")
 def get_author_page_3D_small():
     return FileResponse(os.path.join("static", "authorToAuthor3DSmall.html"))
