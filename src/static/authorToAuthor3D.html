@@ -415,6 +415,7 @@
                 author.story_name
               );
             document.getElementById("author-info-container").innerHTML = rendered;
+            //`${author.story_id}.mp3` when all audios in static
             updateAudioSource(author.audio);
             resetAuthorImage(author.image); // Defined in particleDraw.js
             updateTopAuthors(author)
@@ -495,7 +496,7 @@
 
       async function fetchJSON() {
         try {
-          const response = await fetch("static/authorLinksSmaller.json");
+          const response = await fetch("static/authorLinksSmaller_new.json");
           const gData = await response.json();
           return gData;
         } catch (error) {
