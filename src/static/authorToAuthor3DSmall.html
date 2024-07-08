@@ -419,7 +419,7 @@
               );
             document.getElementById("author-info-container").innerHTML =
               rendered;
-            updateAudioSource(author.audio);
+            updateAudioSource(`audios_es/${author.story_id}.mp3`);
             resetAuthorImage(author.image); // Defined in particleDraw.js
             updateTopAuthors(author);
           })
