@@ -23,7 +23,7 @@
 
     function preload() {
       // Cargar la imagen
-      autores = [
+      authors = [
         // 'chejov', // TODO These three have a different scale!! 0.3
         // 'gabo',
         // 'sagan',
@@ -39,10 +39,8 @@
       ]
 
       // Pick a random author
-      autor = autores[ Math.floor(Math.random() * autores.length) ];
-      // autor = autores[ 0 ]
-
-      img = loadImage(`../data/images/${autor}.png`);
+      author = authors[Math.floor(Math.random() * authors.length)];
+      img = loadImage(`imgs/${author}.png`);
     }
 
     function setup() {
