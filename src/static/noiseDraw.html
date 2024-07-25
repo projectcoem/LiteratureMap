@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Perlin Noise Image Reveal - Full Scale</title>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.4.0/p5.js"></script>
+  <script src="https://unpkg.com/p5.createloop@0.3.1/dist/p5.createloop.js"></script>
+
+  <script>
+    let img; // Image to load
+    let noiseScale = 0.01;
+    let time = 0;
+    let author = '';
+    let scale = 1; // Will be calculated based on image size
+
+    function preload() {
+      const authors = [
+        'asuncion silva',
+        'benedetti',
+        'bukowski',
+        'cortazar',
+        'poe',
+        'quiroga',
+        'rulfo',
+        'saramago'
+      ];
+
+      // Pick a random author
+      author = authors[Math.floor(Math.random() * authors.length)];
+      img = loadImage(`imgs/${author}.png`);
+    }
+
+    function setup() {
+      createCanvas(500, 500);
+      // Calculate scale to fit image to canvas
+      scale = Math.max(width / img.width, height / img.height);
+      img.loadPixels();
+      background(255);
+      noiseDetail(4, 0.5);
+    }
+
+    function draw() {
+      loadPixels();
+      for (let x = 0; x < width; x++) {
+        for (let y = 0; y < height; y++) {
+          let noiseVal = noise(x * noiseScale, y * noiseScale, time * 0.05);
+          let threshold = map(time, 0, 300, 0.9, 0.1);
+          
+          if (noiseVal > threshold) {
+            // Calculate the corresponding position in the original image
+            let imgX = floor(x / scale);
+            let imgY = floor(y / scale);
+            let col = img.get(imgX, imgY);
+            set(x, y, col);
+          }
+        }
+      }
+      updatePixels();
+      
+      time++;
+      if (time > 300) noLoop(); // Stop after full reveal
+    }
+  </script>
+</head>
+<body>
+</body>
+</html>
