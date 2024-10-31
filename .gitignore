@@ -13,3 +13,8 @@ audios_processor/*
 .python-version
 
 venv*
+
+audios_processor/missing_audios*
+audios_processor/spanish*
+src/static/Poemas
+src/static/imgs*
