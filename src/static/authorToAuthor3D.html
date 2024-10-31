@@ -416,7 +416,7 @@
               );
             document.getElementById("author-info-container").innerHTML = rendered;
             //`${author.story_id}.mp3` when all audios in static
-            updateAudioSource(author.audio);
+            updateAudioSource(`audios_es/${author.story_id}.mp3`);
             resetAuthorImage(author.image); // Defined in particleDraw.js
             updateTopAuthors(author)
           })

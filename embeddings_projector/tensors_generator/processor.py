@@ -61,8 +61,8 @@ Totals_df_labels['genera'] = Totals_df_labels['genera'].fillna("Unknown")
 Totals_df_labels['cats'] = Totals_df_labels['cats'].fillna("Unknown")
 Totals_df_labels['Wiki_URL'] = Totals_df_labels['Wiki_URL'].fillna("Unknown")
 Totals_df_labels['linked_authors'] = Totals_df_labels['linked_authors'].fillna("Unknown")
-Totals_df_labels['Birth Year'] = Totals_df_labels['Birth Year'].fillna(0)
-Totals_df_labels['Death Year'] = Totals_df_labels['Death Year'].fillna(0)
+Totals_df_labels['Birth Year'] = Totals_df_labels['Birth Year'].fillna("Unknown")
+Totals_df_labels['Death Year'] = Totals_df_labels['Death Year'].fillna("Unknown")
 
 
 #rename columns
